@@ -6,10 +6,6 @@ on:
     - cron: '0 20 * * *'
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-
 jobs:
   generate-and-upload:
     runs-on: ubuntu-latest
@@ -61,14 +57,14 @@ jobs:
           python upload_all_platforms.py
       - name: Upload history
         uses: actions/upload-artifact@v4
-        if: success()
+        if: always()
         with:
           name: across-word-history
           path: output/history/all_generated_pairs.json
           retention-days: 90
           overwrite: true
       - name: Commit history
-        if: success()
+        if: always()
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -77,3 +73,6 @@ jobs:
             git commit -m "Update pair history - Run #${{ github.run_number }}"
             git push
           fi
+      - name: Upload logs
+        if: always()
+        run: echo "Done"

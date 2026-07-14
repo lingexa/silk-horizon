@@ -86,8 +86,37 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
                 elif platform_name == "instagram":
                     upload_result = upload_func(video_path=video_path, caption=caption, is_story=False)
                 elif platform_name == "youtube":
-                    from upload_to_youtube import generate_video_metadata
-                    yt_title, yt_description, yt_tags = generate_video_metadata(reel_data.get("pairs", []), reel_data)
+                    pairs = reel_data.get("pairs", [])
+                    if pairs:
+                        words = [p.get("british", "") for p in pairs]
+                        words_str = ", ".join(words)
+                        yt_title = f"UK vs US: {words_str} | British vs American English"
+                        yt_description_lines = [
+                            f"🇬🇧 vs 🇺🇸 British vs American English - {len(pairs)} Word Differences!",
+                            "",
+                        ]
+                        for i, p in enumerate(pairs, 1):
+                            b = p.get("british", "")
+                            u = p.get("american", "")
+                            d = p.get("definition", "")
+                            be = p.get("british_example", "")
+                            ue = p.get("american_example", "")
+                            yt_description_lines.append(f"{i}. {b.upper()} vs {u.upper()}")
+                            yt_description_lines.append(f"   {d}")
+                            if be: yt_description_lines.append(f"   🇬🇧 {be}")
+                            if ue: yt_description_lines.append(f"   🇺🇸 {ue}")
+                            yt_description_lines.append("")
+                        yt_description_lines.extend([
+                            "Follow for daily UK vs US words!",
+                            "",
+                            "#BritishVsAmerican #UKvsUS #LearnEnglish #BritishEnglish #AmericanEnglish #Shorts",
+                        ])
+                        yt_description = "\n".join(yt_description_lines)
+                        yt_tags = ["british vs american", "uk vs us", "learn english", "british english", "american english", "vocabulary", "english lesson"] + [w.lower() for w in words]
+                    else:
+                        yt_title = "UK vs US English | British vs American Words"
+                        yt_description = "British vs American English word differences with Lingexa Across!"
+                        yt_tags = ["british vs american", "uk vs us", "learn english"]
                     upload_result = upload_func(video_path=video_path, title=yt_title, description=yt_description, tags=yt_tags, category_id='27')
                 if upload_result:
                     results["uploads"][platform_name] = upload_result
