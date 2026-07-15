@@ -17,7 +17,25 @@
       "american": "arugula",
       "category": "food and drink",
       "generated_at": "2026-07-15T05:44:50.403722"
+    },
+    {
+      "british": "chips",
+      "american": "fries",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T12:55:42.714136"
+    },
+    {
+      "british": "crisps",
+      "american": "chips",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T12:55:42.714145"
+    },
+    {
+      "british": "biscuit",
+      "american": "cookie",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T12:55:42.714146"
     }
   ],
-  "last_updated": "2026-07-15T05:44:50.403724"
+  "last_updated": "2026-07-15T12:55:42.714148"
 }
