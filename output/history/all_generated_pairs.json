@@ -1,0 +1,23 @@
+{
+  "pairs": [
+    {
+      "british": "aubergine",
+      "american": "eggplant",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T05:44:50.403708"
+    },
+    {
+      "british": "courgette",
+      "american": "zucchini",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T05:44:50.403720"
+    },
+    {
+      "british": "rocket",
+      "american": "arugula",
+      "category": "food and drink",
+      "generated_at": "2026-07-15T05:44:50.403722"
+    }
+  ],
+  "last_updated": "2026-07-15T05:44:50.403724"
+}
