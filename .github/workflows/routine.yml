@@ -71,6 +71,7 @@ jobs:
           git add -f output/history/all_generated_pairs.json
           if ! git diff --staged --quiet; then
             git commit -m "Update pair history - Run #${{ github.run_number }}"
+            git pull --rebase
             git push
           fi
       - name: Upload logs
