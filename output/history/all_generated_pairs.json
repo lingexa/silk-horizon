@@ -89,7 +89,25 @@
       "american": "beet",
       "category": "food and drink",
       "generated_at": "2026-07-16T23:14:54.031995"
+    },
+    {
+      "british": "marmalade",
+      "american": "orange",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T22:35:14.333263"
+    },
+    {
+      "british": "skewer",
+      "american": "spit",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T22:35:14.333272"
+    },
+    {
+      "british": "stock",
+      "american": "broth",
+      "category": "food and drink",
+      "generated_at": "2026-07-17T22:35:14.333273"
     }
   ],
-  "last_updated": "2026-07-16T23:14:54.031996"
+  "last_updated": "2026-07-17T22:35:14.333275"
 }
