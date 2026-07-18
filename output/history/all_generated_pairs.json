@@ -107,7 +107,25 @@
       "american": "broth",
       "category": "food and drink",
       "generated_at": "2026-07-17T22:35:14.333273"
+    },
+    {
+      "british": "jumper",
+      "american": "sweater",
+      "category": "clothing",
+      "generated_at": "2026-07-18T11:32:48.935363"
+    },
+    {
+      "british": "trousers",
+      "american": "pants",
+      "category": "clothing",
+      "generated_at": "2026-07-18T11:32:48.935372"
+    },
+    {
+      "british": "trainers",
+      "american": "sneakers",
+      "category": "clothing",
+      "generated_at": "2026-07-18T11:32:48.935374"
     }
   ],
-  "last_updated": "2026-07-17T22:35:14.333275"
+  "last_updated": "2026-07-18T11:32:48.935376"
 }
