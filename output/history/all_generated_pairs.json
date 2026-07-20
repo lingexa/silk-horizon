@@ -197,7 +197,25 @@
       "american": "shirt",
       "category": "clothing",
       "generated_at": "2026-07-20T15:30:05.216164"
+    },
+    {
+      "british": "coriander",
+      "american": "cilantro",
+      "category": "food and drink",
+      "generated_at": "2026-07-20T23:35:06.569074"
+    },
+    {
+      "british": "swede",
+      "american": "rutabaga",
+      "category": "food and drink",
+      "generated_at": "2026-07-20T23:35:06.569085"
+    },
+    {
+      "british": "linseed",
+      "american": "flaxseed",
+      "category": "food and drink",
+      "generated_at": "2026-07-20T23:35:06.569087"
     }
   ],
-  "last_updated": "2026-07-20T15:30:05.216166"
+  "last_updated": "2026-07-20T23:35:06.569089"
 }
