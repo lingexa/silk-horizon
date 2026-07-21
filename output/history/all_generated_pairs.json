@@ -233,7 +233,25 @@
       "american": "apron",
       "category": "clothing",
       "generated_at": "2026-07-21T13:04:57.896002"
+    },
+    {
+      "british": "jelly",
+      "american": "jello",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T23:16:19.253182"
+    },
+    {
+      "british": "faggots",
+      "american": "meatballs",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T23:16:19.253191"
+    },
+    {
+      "british": "booze",
+      "american": "liquor",
+      "category": "food and drink",
+      "generated_at": "2026-07-21T23:16:19.253192"
     }
   ],
-  "last_updated": "2026-07-21T13:04:57.896004"
+  "last_updated": "2026-07-21T23:16:19.253194"
 }
