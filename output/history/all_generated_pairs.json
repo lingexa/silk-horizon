@@ -251,7 +251,25 @@
       "american": "liquor",
       "category": "food and drink",
       "generated_at": "2026-07-21T23:16:19.253192"
+    },
+    {
+      "british": "sweets",
+      "american": "dessert",
+      "category": "food and drink",
+      "generated_at": "2026-07-22T13:11:53.217843"
+    },
+    {
+      "british": "courtyard",
+      "american": "patio",
+      "category": "food and drink",
+      "generated_at": "2026-07-22T13:11:53.217855"
+    },
+    {
+      "british": "postbox",
+      "american": "mailbox",
+      "category": "food and drink",
+      "generated_at": "2026-07-22T13:11:53.217857"
     }
   ],
-  "last_updated": "2026-07-21T23:16:19.253194"
+  "last_updated": "2026-07-22T13:11:53.217858"
 }
