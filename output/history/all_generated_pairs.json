@@ -323,7 +323,25 @@
       "american": "pickles",
       "category": "food and drink",
       "generated_at": "2026-07-23T23:16:26.429600"
+    },
+    {
+      "british": "buttery",
+      "american": "croissant",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T13:06:25.949432"
+    },
+    {
+      "british": "scone",
+      "american": "biscuit",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T13:06:25.949443"
+    },
+    {
+      "british": "fizz",
+      "american": "soda",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T13:06:25.949445"
     }
   ],
-  "last_updated": "2026-07-23T23:16:26.429602"
+  "last_updated": "2026-07-24T13:06:25.949447"
 }
