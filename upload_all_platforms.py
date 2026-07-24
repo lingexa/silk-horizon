@@ -74,10 +74,41 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
     results = {"timestamp": datetime.now().isoformat(), "word": word, "video": video_path, "uploads": {}, "platforms_attempted": [], "platforms_successful": [], "platforms_skipped": [], "platforms_failed": []}
     print(f"\n{'='*80}\n{CHANNEL_NAME.upper()} - MULTI-PLATFORM UPLOAD\n{'='*80}")
     if not Path(video_path).exists():
-                # === UPLOAD STATUS REPORT ===
+                    # ====== UPLOAD STATUS REPORT ======
     print("\n" + "=" * 60)
     print("UPLOAD STATUS REPORT")
     print("=" * 60)
+    uploads = results.get("uploads", {})
+    success_count = 0
+    fail_count = 0
+    skip_count = 0
+    for pname, pkey in [("INSTAGRAM", "instagram"), ("FACEBOOK", "facebook"), ("YOUTUBE", "youtube"),
+                          ("THREADS", "threads"), ("TIKTOK", "tiktok"), ("TWITTER", "twitter"),
+                          ("VK", "vk"), ("TELEGRAM", "telegram")]:
+        pinfo = uploads.get(pkey, {})
+        if pinfo and pinfo.get("status") == "success":
+            pid = pinfo.get("id", "N/A")
+            print(f"  {pname}: SUCCESS (ID: {pid})")
+            success_count += 1
+        elif pinfo and pinfo.get("status") == "skipped":
+            reason = pinfo.get("reason", "unknown")
+            print(f"  {pname}: SKIPPED - {reason}")
+            skip_count += 1
+        elif pinfo:
+            err = str(pinfo.get("error", pinfo.get("reason", "unknown")))[:100]
+            print(f"  {pname}: FAILED - {err}")
+            fail_count += 1
+        else:
+            pl = pkey.lower()
+            failed = pl in [p.lower() for p in results.get("platforms_failed", [])]
+            skipped = pl in [p.lower() for p in results.get("platforms_skipped", [])]
+            if failed: print(f"  {pname}: FAILED"); fail_count += 1
+            elif skipped: print(f"  {pname}: SKIPPED"); skip_count += 1
+            else: print(f"  {pname}: -")
+    print("=" * 60)
+    print(f"  Results: {success_count} success, {fail_count} failed, {skip_count} skipped")
+    print("=" * 60)
+
     uploads = results.get("uploads", {})
     for pname, pkey in [("INSTAGRAM", "instagram"), ("FACEBOOK", "facebook"), ("YOUTUBE", "youtube"),
                           ("THREADS", "threads"), ("TIKTOK", "tiktok"), ("TWITTER", "twitter"),
