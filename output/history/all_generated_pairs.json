@@ -341,7 +341,25 @@
       "american": "soda",
       "category": "food and drink",
       "generated_at": "2026-07-24T13:06:25.949445"
+    },
+    {
+      "british": "boot",
+      "american": "trunk",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T23:39:40.416753"
+    },
+    {
+      "british": "lorry",
+      "american": "truck",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T23:39:40.416762"
+    },
+    {
+      "british": "motorway",
+      "american": "highway",
+      "category": "food and drink",
+      "generated_at": "2026-07-24T23:39:40.416764"
     }
   ],
-  "last_updated": "2026-07-24T13:06:25.949447"
+  "last_updated": "2026-07-24T23:39:40.416765"
 }
