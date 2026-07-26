@@ -395,7 +395,25 @@
       "american": "attire",
       "category": "clothing",
       "generated_at": "2026-07-25T23:17:01.541335"
+    },
+    {
+      "british": "chocolates",
+      "american": "candies",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T11:49:10.713060"
+    },
+    {
+      "british": "fresher",
+      "american": "cooler",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T11:49:10.713067"
+    },
+    {
+      "british": "digestive",
+      "american": "graham",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T11:49:10.713069"
     }
   ],
-  "last_updated": "2026-07-25T23:17:01.541337"
+  "last_updated": "2026-07-26T11:49:10.713070"
 }
