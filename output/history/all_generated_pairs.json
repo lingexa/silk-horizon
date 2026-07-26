@@ -413,7 +413,25 @@
       "american": "graham",
       "category": "food and drink",
       "generated_at": "2026-07-26T11:49:10.713069"
+    },
+    {
+      "british": "herbs",
+      "american": "spices",
+      "category": "food and drink",
+      "generated_at": "2026-07-26T23:33:28.122834"
+    },
+    {
+      "british": "pants",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-26T23:33:28.122846"
+    },
+    {
+      "british": "ringlets",
+      "american": "curls",
+      "category": "clothing",
+      "generated_at": "2026-07-26T23:33:28.122848"
     }
   ],
-  "last_updated": "2026-07-26T11:49:10.713070"
+  "last_updated": "2026-07-26T23:33:28.122850"
 }
