@@ -431,7 +431,25 @@
       "american": "curls",
       "category": "clothing",
       "generated_at": "2026-07-26T23:33:28.122848"
+    },
+    {
+      "british": "fag",
+      "american": "cigarette",
+      "category": "food and drink",
+      "generated_at": "2026-07-27T16:37:06.664168"
+    },
+    {
+      "british": "underpants",
+      "american": "underwear",
+      "category": "clothing",
+      "generated_at": "2026-07-27T16:37:06.664180"
+    },
+    {
+      "british": "brogues",
+      "american": "oxfords",
+      "category": "clothing",
+      "generated_at": "2026-07-27T16:37:06.664181"
     }
   ],
-  "last_updated": "2026-07-26T23:33:28.122850"
+  "last_updated": "2026-07-27T16:37:06.664182"
 }
