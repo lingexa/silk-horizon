@@ -449,7 +449,25 @@
       "american": "oxfords",
       "category": "clothing",
       "generated_at": "2026-07-27T16:37:06.664181"
+    },
+    {
+      "british": "takeaway",
+      "american": "takeout",
+      "category": "food and drink",
+      "generated_at": "2026-07-28T23:33:54.547747"
+    },
+    {
+      "british": "wholemeal",
+      "american": "wholewheat",
+      "category": "food and drink",
+      "generated_at": "2026-07-28T23:33:54.547756"
+    },
+    {
+      "british": "yoghurt",
+      "american": "yogurt",
+      "category": "food and drink",
+      "generated_at": "2026-07-28T23:33:54.547758"
     }
   ],
-  "last_updated": "2026-07-27T16:37:06.664182"
+  "last_updated": "2026-07-28T23:33:54.547760"
 }
