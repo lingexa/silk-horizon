@@ -467,7 +467,25 @@
       "american": "yogurt",
       "category": "food and drink",
       "generated_at": "2026-07-28T23:33:54.547758"
+    },
+    {
+      "british": "mackintosh",
+      "american": "raincoat",
+      "category": "clothing",
+      "generated_at": "2026-07-29T15:34:55.331454"
+    },
+    {
+      "british": "jumpers",
+      "american": "sweaters",
+      "category": "clothing",
+      "generated_at": "2026-07-29T15:34:55.331465"
+    },
+    {
+      "british": "plimsolls",
+      "american": "sneakers",
+      "category": "clothing",
+      "generated_at": "2026-07-29T15:34:55.331466"
     }
   ],
-  "last_updated": "2026-07-28T23:33:54.547760"
+  "last_updated": "2026-07-29T15:34:55.331468"
 }
