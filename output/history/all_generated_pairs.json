@@ -485,7 +485,25 @@
       "american": "sneakers",
       "category": "clothing",
       "generated_at": "2026-07-29T15:34:55.331466"
+    },
+    {
+      "british": "muesli",
+      "american": "granola",
+      "category": "food and drink",
+      "generated_at": "2026-07-29T23:38:48.581303"
+    },
+    {
+      "british": "pyjamas",
+      "american": "pajamas",
+      "category": "clothing",
+      "generated_at": "2026-07-29T23:38:48.581314"
+    },
+    {
+      "british": "boilersuit",
+      "american": "jumpsuit",
+      "category": "clothing",
+      "generated_at": "2026-07-29T23:38:48.581316"
     }
   ],
-  "last_updated": "2026-07-29T15:34:55.331468"
+  "last_updated": "2026-07-29T23:38:48.581317"
 }
