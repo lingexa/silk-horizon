@@ -521,7 +521,25 @@
       "american": "gas",
       "category": "transport",
       "generated_at": "2026-07-30T13:18:32.730989"
+    },
+    {
+      "british": "jelly",
+      "american": "Jell-O",
+      "category": "food and drink",
+      "generated_at": "2026-07-30T23:37:40.894556"
+    },
+    {
+      "british": "margarine",
+      "american": "oleomargarine",
+      "category": "food and drink",
+      "generated_at": "2026-07-30T23:37:40.894567"
+    },
+    {
+      "british": "soda",
+      "american": "pop",
+      "category": "food and drink",
+      "generated_at": "2026-07-30T23:37:40.894569"
     }
   ],
-  "last_updated": "2026-07-30T13:18:32.730991"
+  "last_updated": "2026-07-30T23:37:40.894571"
 }
