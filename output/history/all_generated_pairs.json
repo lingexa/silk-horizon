@@ -503,7 +503,25 @@
       "american": "jumpsuit",
       "category": "clothing",
       "generated_at": "2026-07-29T23:38:48.581316"
+    },
+    {
+      "british": "underwear",
+      "american": "underpants",
+      "category": "clothing",
+      "generated_at": "2026-07-30T13:18:32.730976"
+    },
+    {
+      "british": "knickers",
+      "american": "panties",
+      "category": "clothing",
+      "generated_at": "2026-07-30T13:18:32.730987"
+    },
+    {
+      "british": "petrol",
+      "american": "gas",
+      "category": "transport",
+      "generated_at": "2026-07-30T13:18:32.730989"
     }
   ],
-  "last_updated": "2026-07-29T23:38:48.581317"
+  "last_updated": "2026-07-30T13:18:32.730991"
 }
