@@ -539,7 +539,25 @@
       "american": "pop",
       "category": "food and drink",
       "generated_at": "2026-07-30T23:37:40.894569"
+    },
+    {
+      "british": "dessert",
+      "american": "pudding",
+      "category": "food and drink",
+      "generated_at": "2026-07-31T15:50:09.532024"
+    },
+    {
+      "british": "marmalade",
+      "american": "preserves",
+      "category": "food and drink",
+      "generated_at": "2026-07-31T15:50:09.532033"
+    },
+    {
+      "british": "tinned",
+      "american": "canned",
+      "category": "food and drink",
+      "generated_at": "2026-07-31T15:50:09.532035"
     }
   ],
-  "last_updated": "2026-07-30T23:37:40.894571"
+  "last_updated": "2026-07-31T15:50:09.532036"
 }
