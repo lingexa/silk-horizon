@@ -557,7 +557,25 @@
       "american": "canned",
       "category": "food and drink",
       "generated_at": "2026-07-31T15:50:09.532035"
+    },
+    {
+      "british": "sweets",
+      "american": "desserts",
+      "category": "food and drink",
+      "generated_at": "2026-07-31T23:38:36.099927"
+    },
+    {
+      "british": "brolly",
+      "american": "umbrella",
+      "category": "clothing",
+      "generated_at": "2026-07-31T23:38:36.099936"
+    },
+    {
+      "british": "overalls",
+      "american": "dungarees",
+      "category": "clothing",
+      "generated_at": "2026-07-31T23:38:36.099938"
     }
   ],
-  "last_updated": "2026-07-31T15:50:09.532036"
+  "last_updated": "2026-07-31T23:38:36.099939"
 }
