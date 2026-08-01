@@ -575,7 +575,25 @@
       "american": "dungarees",
       "category": "clothing",
       "generated_at": "2026-07-31T23:38:36.099938"
+    },
+    {
+      "british": "anorak",
+      "american": "hoodie",
+      "category": "clothing",
+      "generated_at": "2026-08-01T11:49:40.244109"
+    },
+    {
+      "british": "wellies",
+      "american": "boots",
+      "category": "clothing",
+      "generated_at": "2026-08-01T11:49:40.244121"
+    },
+    {
+      "british": "leggings",
+      "american": "tights",
+      "category": "clothing",
+      "generated_at": "2026-08-01T11:49:40.244123"
     }
   ],
-  "last_updated": "2026-07-31T23:38:36.099939"
+  "last_updated": "2026-08-01T11:49:40.244125"
 }
