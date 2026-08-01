@@ -629,7 +629,25 @@
       "american": "hood",
       "category": "transport",
       "generated_at": "2026-08-01T13:58:15.849398"
+    },
+    {
+      "british": "flyover",
+      "american": "overpass",
+      "category": "transport",
+      "generated_at": "2026-08-01T23:18:39.345172"
+    },
+    {
+      "british": "lay-by",
+      "american": "pull-off",
+      "category": "transport",
+      "generated_at": "2026-08-01T23:18:39.345184"
+    },
+    {
+      "british": "coach",
+      "american": "bus",
+      "category": "transport",
+      "generated_at": "2026-08-01T23:18:39.345186"
     }
   ],
-  "last_updated": "2026-08-01T13:58:15.849400"
+  "last_updated": "2026-08-01T23:18:39.345188"
 }
