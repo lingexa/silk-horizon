@@ -611,7 +611,25 @@
       "american": "overalls",
       "category": "clothing",
       "generated_at": "2026-08-01T13:32:47.431022"
+    },
+    {
+      "british": "underground",
+      "american": "subway",
+      "category": "transport",
+      "generated_at": "2026-08-01T13:58:15.849388"
+    },
+    {
+      "british": "tyre",
+      "american": "tire",
+      "category": "transport",
+      "generated_at": "2026-08-01T13:58:15.849396"
+    },
+    {
+      "british": "bonnet",
+      "american": "hood",
+      "category": "transport",
+      "generated_at": "2026-08-01T13:58:15.849398"
     }
   ],
-  "last_updated": "2026-08-01T13:32:47.431023"
+  "last_updated": "2026-08-01T13:58:15.849400"
 }
