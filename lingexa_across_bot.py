@@ -1,4 +1,4 @@
-"""
+﻿"""
 Lingexa Across - British vs American English
 """
 
@@ -65,8 +65,14 @@ def save_pair_history(data):
 
 def is_pair_used(brit_word, us_word):
     history = load_pair_history()
+    brit = brit_word.lower().strip()
+    us = us_word.lower().strip()
     for p in history.get("pairs", []):
-        if p["british"].lower().strip() == brit_word.lower().strip() and p["american"].lower().strip() == us_word.lower().strip():
+        pb = p["british"].lower().strip()
+        pu = p["american"].lower().strip()
+        if pb == brit and pu == us:
+            return True
+        if pb == brit or pu == us:
             return True
     return False
 
@@ -90,7 +96,9 @@ def generate_pair_data(num_pairs=WORDS_PER_VIDEO):
             print(f"[api] Attempt {attempt + 1}: {cat} (need {remaining} more)")
             history = load_pair_history()
             used = []
-            for p in history.get("pairs", [])[-30:]:
+            all_pairs = history.get("pairs", [])
+            recent = all_pairs[-100:] if len(all_pairs) > 100 else all_pairs
+            for p in recent:
                 used.append(f"{p['british']}/{p['american']}")
             used.extend([f"{c['british']}/{c['american']}" for c in collected])
             used_str = ", ".join(used) if used else "(none)"
