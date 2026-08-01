@@ -1,4 +1,4 @@
-"""
+﻿"""
 Lingexa Across - British vs American English Upload Script
 """
 
@@ -50,7 +50,7 @@ def generate_caption(reel_data, platform="facebook"):
     if not pairs:
         return f"British vs American English with {CHANNEL_NAME}! #LingexaAcross #BritishVsAmerican"
     if platform == "facebook":
-        lines = [f"🇬🇧 British vs 🇺🇸 American: 3 Word Differences!", f""]
+        lines = [f"≡ƒç¼≡ƒçº British vs ≡ƒç║≡ƒç╕ American: 3 Word Differences!", f""]
         for i, p in enumerate(pairs, 1):
             brit = p.get("british", "")
             us = p.get("american", "")
@@ -58,13 +58,13 @@ def generate_caption(reel_data, platform="facebook"):
             brit_ex = p.get("british_example", "")
             us_ex = p.get("american_example", "")
             lines.append(f"{i}. {brit.upper()} vs {us.upper()}")
-            lines.append(f"   → {definition}")
-            lines.append(f"   🇬🇧 {brit_ex}")
-            lines.append(f"   🇺🇸 {us_ex}")
+            lines.append(f"   ΓåÆ {definition}")
+            lines.append(f"   ≡ƒç¼≡ƒçº {brit_ex}")
+            lines.append(f"   ≡ƒç║≡ƒç╕ {us_ex}")
             lines.append(f"")
-        lines.extend([f"💡 Save this to remember the difference!", f"🔔 Follow {CHANNEL_NAME} for daily UK vs US words!", f"", f"#LingexaAcross #BritishVsAmerican #UKvsUS #English #LearnEnglish #BritishEnglish #AmericanEnglish #LanguageLearning #ESL"])
+        lines.extend([f"≡ƒÆí Save this to remember the difference!", f"≡ƒöö Follow {CHANNEL_NAME} for daily UK vs US words!", f"", f"#LingexaAcross #BritishVsAmerican #UKvsUS #English #LearnEnglish #BritishEnglish #AmericanEnglish #LanguageLearning #ESL"])
     else:
-        lines = [f"🇬🇧 vs 🇺🇸 British vs American words today!", f""]
+        lines = [f"≡ƒç¼≡ƒçº vs ≡ƒç║≡ƒç╕ British vs American words today!", f""]
         for i, p in enumerate(pairs[:3], 1):
             lines.append(f"{i}. {p['british']} / {p['american']}")
         lines.extend([f"", f"#LingexaAcross #BritishVsAmerican #English"])
@@ -74,60 +74,7 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
     results = {"timestamp": datetime.now().isoformat(), "word": word, "video": video_path, "uploads": {}, "platforms_attempted": [], "platforms_successful": [], "platforms_skipped": [], "platforms_failed": []}
     print(f"\n{'='*80}\n{CHANNEL_NAME.upper()} - MULTI-PLATFORM UPLOAD\n{'='*80}")
     if not Path(video_path).exists():
-                    # ====== UPLOAD STATUS REPORT ======
-    print("\n" + "=" * 60)
-    print("UPLOAD STATUS REPORT")
-    print("=" * 60)
-    uploads = results.get("uploads", {})
-    success_count = 0
-    fail_count = 0
-    skip_count = 0
-    for pname, pkey in [("INSTAGRAM", "instagram"), ("FACEBOOK", "facebook"), ("YOUTUBE", "youtube"),
-                          ("THREADS", "threads"), ("TIKTOK", "tiktok"), ("TWITTER", "twitter"),
-                          ("VK", "vk"), ("TELEGRAM", "telegram")]:
-        pinfo = uploads.get(pkey, {})
-        if pinfo and pinfo.get("status") == "success":
-            pid = pinfo.get("id", "N/A")
-            print(f"  {pname}: SUCCESS (ID: {pid})")
-            success_count += 1
-        elif pinfo and pinfo.get("status") == "skipped":
-            reason = pinfo.get("reason", "unknown")
-            print(f"  {pname}: SKIPPED - {reason}")
-            skip_count += 1
-        elif pinfo:
-            err = str(pinfo.get("error", pinfo.get("reason", "unknown")))[:100]
-            print(f"  {pname}: FAILED - {err}")
-            fail_count += 1
-        else:
-            pl = pkey.lower()
-            failed = pl in [p.lower() for p in results.get("platforms_failed", [])]
-            skipped = pl in [p.lower() for p in results.get("platforms_skipped", [])]
-            if failed: print(f"  {pname}: FAILED"); fail_count += 1
-            elif skipped: print(f"  {pname}: SKIPPED"); skip_count += 1
-            else: print(f"  {pname}: -")
-    print("=" * 60)
-    print(f"  Results: {success_count} success, {fail_count} failed, {skip_count} skipped")
-    print("=" * 60)
-
-    uploads = results.get("uploads", {})
-    for pname, pkey in [("INSTAGRAM", "instagram"), ("FACEBOOK", "facebook"), ("YOUTUBE", "youtube"),
-                          ("THREADS", "threads"), ("TIKTOK", "tiktok"), ("TWITTER", "twitter"),
-                          ("VK", "vk"), ("TELEGRAM", "telegram")]:
-        pinfo = uploads.get(pkey, {})
-        if pinfo and pinfo.get("status") == "success":
-            pid = pinfo.get("id", "N/A")
-            print(f"{pname}: SUCCESS (ID: {pid})")
-        elif pinfo:
-            err = str(pinfo.get("error", pinfo.get("reason", "unknown")))[:80]
-            print(f"{pname}: FAILED - {err}")
-        else:
-            pl = pkey.lower()
-            failed = pl in [p.lower() for p in results.get("platforms_failed", [])]
-            skipped = pl in [p.lower() for p in results.get("platforms_skipped", [])]
-            print(f"{pname}: {'FAILED' if failed else ('SKIPPED' if skipped else '-')}")
-    print("=" * 60)
-
-    return results
+        return results
     platforms = [("facebook", upload_to_facebook, "Facebook"), ("instagram", upload_to_instagram, "Instagram"), ("youtube", upload_to_youtube, "YouTube")]
     for platform_name, upload_func, display_name in platforms:
         print(f"\n{display_name} UPLOAD...")
@@ -145,7 +92,7 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
                         words_str = ", ".join(words)
                         yt_title = f"UK vs US: {words_str} | British vs American English"
                         yt_description_lines = [
-                            f"🇬🇧 vs 🇺🇸 British vs American English - {len(pairs)} Word Differences!",
+                            f"≡ƒç¼≡ƒçº vs ≡ƒç║≡ƒç╕ British vs American English - {len(pairs)} Word Differences!",
                             "",
                         ]
                         for i, p in enumerate(pairs, 1):
@@ -156,8 +103,8 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
                             ue = p.get("american_example", "")
                             yt_description_lines.append(f"{i}. {b.upper()} vs {u.upper()}")
                             yt_description_lines.append(f"   {d}")
-                            if be: yt_description_lines.append(f"   🇬🇧 {be}")
-                            if ue: yt_description_lines.append(f"   🇺🇸 {ue}")
+                            if be: yt_description_lines.append(f"   ≡ƒç¼≡ƒçº {be}")
+                            if ue: yt_description_lines.append(f"   ≡ƒç║≡ƒç╕ {ue}")
                             yt_description_lines.append("")
                         yt_description_lines.extend([
                             "Follow for daily UK vs US words!",
@@ -182,7 +129,7 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
         else:
             results["platforms_skipped"].append(platform_name)
     print(f"\nSuccessful: {len(results['platforms_successful'])}, Failed: {len(results['platforms_failed'])}, Skipped: {len(results['platforms_skipped'])}")
-        # === UPLOAD STATUS REPORT ===
+
     print("\n" + "=" * 60)
     print("UPLOAD STATUS REPORT")
     print("=" * 60)
@@ -197,6 +144,7 @@ def upload_to_all_platforms(video_path, caption, word, reel_data=None):
         else: status = "-"
         print(f"{pname}: {status}")
     print("=" * 60)
+
     return results
 
 def main():
