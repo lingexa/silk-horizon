@@ -665,7 +665,25 @@
       "american": "basketball",
       "category": "sports",
       "generated_at": "2026-08-02T11:53:05.933664"
+    },
+    {
+      "british": "railway",
+      "american": "railroad",
+      "category": "transport",
+      "generated_at": "2026-08-02T23:18:04.514479"
+    },
+    {
+      "british": "luggage",
+      "american": "baggage",
+      "category": "transport",
+      "generated_at": "2026-08-02T23:18:04.514488"
+    },
+    {
+      "british": "footpath",
+      "american": "sidewalk",
+      "category": "transport",
+      "generated_at": "2026-08-02T23:18:04.514490"
     }
   ],
-  "last_updated": "2026-08-02T11:53:05.933666"
+  "last_updated": "2026-08-02T23:18:04.514492"
 }
