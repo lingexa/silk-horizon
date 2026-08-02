@@ -647,7 +647,25 @@
       "american": "bus",
       "category": "transport",
       "generated_at": "2026-08-01T23:18:39.345186"
+    },
+    {
+      "british": "football",
+      "american": "soccer",
+      "category": "sports",
+      "generated_at": "2026-08-02T11:53:05.933654"
+    },
+    {
+      "british": "rugby",
+      "american": "football",
+      "category": "sports",
+      "generated_at": "2026-08-02T11:53:05.933662"
+    },
+    {
+      "british": "netball",
+      "american": "basketball",
+      "category": "sports",
+      "generated_at": "2026-08-02T11:53:05.933664"
     }
   ],
-  "last_updated": "2026-08-01T23:18:39.345188"
+  "last_updated": "2026-08-02T11:53:05.933666"
 }
