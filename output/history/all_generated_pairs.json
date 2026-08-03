@@ -701,7 +701,25 @@
       "american": "streetcar",
       "category": "transport",
       "generated_at": "2026-08-03T16:58:30.772796"
+    },
+    {
+      "british": "chilli",
+      "american": "chili",
+      "category": "food and drink",
+      "generated_at": "2026-08-03T23:50:28.912286"
+    },
+    {
+      "british": "culottes",
+      "american": "shorts",
+      "category": "clothing",
+      "generated_at": "2026-08-03T23:50:28.912295"
+    },
+    {
+      "british": "bodice",
+      "american": "blouse",
+      "category": "clothing",
+      "generated_at": "2026-08-03T23:50:28.912296"
     }
   ],
-  "last_updated": "2026-08-03T16:58:30.772797"
+  "last_updated": "2026-08-03T23:50:28.912298"
 }
