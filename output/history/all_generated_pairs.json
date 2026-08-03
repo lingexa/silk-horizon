@@ -683,7 +683,25 @@
       "american": "sidewalk",
       "category": "transport",
       "generated_at": "2026-08-02T23:18:04.514490"
+    },
+    {
+      "british": "cart",
+      "american": "wagon",
+      "category": "transport",
+      "generated_at": "2026-08-03T16:58:30.772783"
+    },
+    {
+      "british": "caravan",
+      "american": "trailer",
+      "category": "transport",
+      "generated_at": "2026-08-03T16:58:30.772794"
+    },
+    {
+      "british": "tram",
+      "american": "streetcar",
+      "category": "transport",
+      "generated_at": "2026-08-03T16:58:30.772796"
     }
   ],
-  "last_updated": "2026-08-02T23:18:04.514492"
+  "last_updated": "2026-08-03T16:58:30.772797"
 }
