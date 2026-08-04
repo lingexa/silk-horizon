@@ -737,7 +737,25 @@
       "american": "line",
       "category": "workplace",
       "generated_at": "2026-08-04T16:23:08.857593"
+    },
+    {
+      "british": "maisonette",
+      "american": "condo",
+      "category": "housing",
+      "generated_at": "2026-08-04T23:40:13.580111"
+    },
+    {
+      "british": "semi-detached",
+      "american": "duplex",
+      "category": "housing",
+      "generated_at": "2026-08-04T23:40:13.580122"
+    },
+    {
+      "british": "conservatory",
+      "american": "sunroom",
+      "category": "housing",
+      "generated_at": "2026-08-04T23:40:13.580124"
     }
   ],
-  "last_updated": "2026-08-04T16:23:08.857595"
+  "last_updated": "2026-08-04T23:40:13.580125"
 }
