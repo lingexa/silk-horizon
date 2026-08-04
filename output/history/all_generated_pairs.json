@@ -719,7 +719,25 @@
       "american": "blouse",
       "category": "clothing",
       "generated_at": "2026-08-03T23:50:28.912296"
+    },
+    {
+      "british": "lift",
+      "american": "elevator",
+      "category": "workplace",
+      "generated_at": "2026-08-04T16:23:08.857581"
+    },
+    {
+      "british": "flat",
+      "american": "apartment",
+      "category": "workplace",
+      "generated_at": "2026-08-04T16:23:08.857592"
+    },
+    {
+      "british": "queue",
+      "american": "line",
+      "category": "workplace",
+      "generated_at": "2026-08-04T16:23:08.857593"
     }
   ],
-  "last_updated": "2026-08-03T23:50:28.912298"
+  "last_updated": "2026-08-04T16:23:08.857595"
 }
