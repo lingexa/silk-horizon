@@ -755,7 +755,25 @@
       "american": "sunroom",
       "category": "housing",
       "generated_at": "2026-08-04T23:40:13.580124"
+    },
+    {
+      "british": "tin",
+      "american": "can",
+      "category": "food and drink",
+      "generated_at": "2026-08-05T15:53:56.767722"
+    },
+    {
+      "british": "stockings",
+      "american": "hosiery",
+      "category": "clothing",
+      "generated_at": "2026-08-05T15:53:56.767731"
+    },
+    {
+      "british": "slips",
+      "american": "petticoat",
+      "category": "clothing",
+      "generated_at": "2026-08-05T15:53:56.767733"
     }
   ],
-  "last_updated": "2026-08-04T23:40:13.580125"
+  "last_updated": "2026-08-05T15:53:56.767735"
 }
