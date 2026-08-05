@@ -773,7 +773,25 @@
       "american": "petticoat",
       "category": "clothing",
       "generated_at": "2026-08-05T15:53:56.767733"
+    },
+    {
+      "british": "terrace",
+      "american": "rowhouse",
+      "category": "housing",
+      "generated_at": "2026-08-05T23:32:11.439586"
+    },
+    {
+      "british": "cottage",
+      "american": "cabin",
+      "category": "housing",
+      "generated_at": "2026-08-05T23:32:11.439597"
+    },
+    {
+      "british": "garden",
+      "american": "yard",
+      "category": "housing",
+      "generated_at": "2026-08-05T23:32:11.439599"
     }
   ],
-  "last_updated": "2026-08-05T15:53:56.767735"
+  "last_updated": "2026-08-05T23:32:11.439601"
 }
