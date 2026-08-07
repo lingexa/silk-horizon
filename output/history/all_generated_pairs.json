@@ -827,7 +827,25 @@
       "american": "mail",
       "category": "workplace",
       "generated_at": "2026-08-07T10:40:02.279781"
+    },
+    {
+      "british": "watercress",
+      "american": "nasturtium",
+      "category": "food and drink",
+      "generated_at": "2026-08-07T22:07:16.202874"
+    },
+    {
+      "british": "prawn",
+      "american": "shrimp",
+      "category": "food and drink",
+      "generated_at": "2026-08-07T22:07:16.202885"
+    },
+    {
+      "british": "gaiters",
+      "american": "spats",
+      "category": "clothing",
+      "generated_at": "2026-08-07T22:07:16.202886"
     }
   ],
-  "last_updated": "2026-08-07T10:40:02.279782"
+  "last_updated": "2026-08-07T22:07:16.202889"
 }
