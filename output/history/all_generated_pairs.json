@@ -791,7 +791,25 @@
       "american": "yard",
       "category": "housing",
       "generated_at": "2026-08-05T23:32:11.439599"
+    },
+    {
+      "british": "kitsch",
+      "american": "garish",
+      "category": "clothing",
+      "generated_at": "2026-08-07T04:34:44.395155"
+    },
+    {
+      "british": "aeroplane",
+      "american": "airplane",
+      "category": "transport",
+      "generated_at": "2026-08-07T04:34:44.395164"
+    },
+    {
+      "british": "bungalow",
+      "american": "ranch",
+      "category": "housing",
+      "generated_at": "2026-08-07T04:34:44.395166"
     }
   ],
-  "last_updated": "2026-08-05T23:32:11.439601"
+  "last_updated": "2026-08-07T04:34:44.395167"
 }
