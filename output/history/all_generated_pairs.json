@@ -845,7 +845,25 @@
       "american": "spats",
       "category": "clothing",
       "generated_at": "2026-08-07T22:07:16.202886"
+    },
+    {
+      "british": "blouse",
+      "american": "top",
+      "category": "clothing",
+      "generated_at": "2026-08-08T21:06:00.731116"
+    },
+    {
+      "british": "galoshes",
+      "american": "overshoes",
+      "category": "clothing",
+      "generated_at": "2026-08-08T21:06:00.731128"
+    },
+    {
+      "british": "trolley",
+      "american": "cart",
+      "category": "workplace",
+      "generated_at": "2026-08-08T21:06:00.731130"
     }
   ],
-  "last_updated": "2026-08-07T22:07:16.202889"
+  "last_updated": "2026-08-08T21:06:00.731132"
 }
