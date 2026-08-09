@@ -881,7 +881,25 @@
       "american": "TV",
       "category": "school",
       "generated_at": "2026-08-09T10:04:18.394494"
+    },
+    {
+      "british": "trainer",
+      "american": "sneaker",
+      "category": "food and drink",
+      "generated_at": "2026-08-09T21:18:58.017748"
+    },
+    {
+      "british": "diversion",
+      "american": "detour",
+      "category": "transport",
+      "generated_at": "2026-08-09T21:18:58.017756"
+    },
+    {
+      "british": "indicator",
+      "american": "blinker",
+      "category": "transport",
+      "generated_at": "2026-08-09T21:18:58.017758"
     }
   ],
-  "last_updated": "2026-08-09T10:04:18.394496"
+  "last_updated": "2026-08-09T21:18:58.017760"
 }
