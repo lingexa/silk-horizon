@@ -863,7 +863,25 @@
       "american": "cart",
       "category": "workplace",
       "generated_at": "2026-08-08T21:06:00.731130"
+    },
+    {
+      "british": "herring",
+      "american": "kipper",
+      "category": "food and drink",
+      "generated_at": "2026-08-09T10:04:18.394484"
+    },
+    {
+      "british": "mash",
+      "american": "purée",
+      "category": "food and drink",
+      "generated_at": "2026-08-09T10:04:18.394493"
+    },
+    {
+      "british": "telly",
+      "american": "TV",
+      "category": "school",
+      "generated_at": "2026-08-09T10:04:18.394494"
     }
   ],
-  "last_updated": "2026-08-08T21:06:00.731132"
+  "last_updated": "2026-08-09T10:04:18.394496"
 }
