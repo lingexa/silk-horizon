@@ -917,7 +917,25 @@
       "american": "math",
       "category": "school",
       "generated_at": "2026-08-10T11:32:36.010679"
+    },
+    {
+      "british": "chaps",
+      "american": "jerky",
+      "category": "food and drink",
+      "generated_at": "2026-08-10T22:08:31.834959"
+    },
+    {
+      "british": "motorcyclist",
+      "american": "biker",
+      "category": "transport",
+      "generated_at": "2026-08-10T22:08:31.834969"
+    },
+    {
+      "british": "storey",
+      "american": "story",
+      "category": "housing",
+      "generated_at": "2026-08-10T22:08:31.834971"
     }
   ],
-  "last_updated": "2026-08-10T11:32:36.010681"
+  "last_updated": "2026-08-10T22:08:31.834973"
 }
