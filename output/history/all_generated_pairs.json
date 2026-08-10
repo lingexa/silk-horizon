@@ -899,7 +899,25 @@
       "american": "blinker",
       "category": "transport",
       "generated_at": "2026-08-09T21:18:58.017758"
+    },
+    {
+      "british": "university",
+      "american": "college",
+      "category": "school",
+      "generated_at": "2026-08-10T11:32:36.010669"
+    },
+    {
+      "british": "timetable",
+      "american": "schedule",
+      "category": "school",
+      "generated_at": "2026-08-10T11:32:36.010677"
+    },
+    {
+      "british": "maths",
+      "american": "math",
+      "category": "school",
+      "generated_at": "2026-08-10T11:32:36.010679"
     }
   ],
-  "last_updated": "2026-08-09T21:18:58.017760"
+  "last_updated": "2026-08-10T11:32:36.010681"
 }
