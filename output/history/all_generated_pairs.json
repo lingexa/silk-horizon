@@ -953,7 +953,25 @@
       "american": "ACV",
       "category": "food and drink",
       "generated_at": "2026-08-11T10:38:55.821452"
+    },
+    {
+      "british": "petticoat",
+      "american": "slip",
+      "category": "clothing",
+      "generated_at": "2026-08-11T22:25:21.779279"
+    },
+    {
+      "british": "pantaloons",
+      "american": "trousers",
+      "category": "clothing",
+      "generated_at": "2026-08-11T22:25:21.779290"
+    },
+    {
+      "british": "motoring",
+      "american": "driving",
+      "category": "transport",
+      "generated_at": "2026-08-11T22:25:21.779291"
     }
   ],
-  "last_updated": "2026-08-11T10:38:55.821453"
+  "last_updated": "2026-08-11T22:25:21.779293"
 }
