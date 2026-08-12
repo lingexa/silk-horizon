@@ -971,7 +971,25 @@
       "american": "driving",
       "category": "transport",
       "generated_at": "2026-08-11T22:25:21.779291"
+    },
+    {
+      "british": "windcheater",
+      "american": "windbreaker",
+      "category": "clothing",
+      "generated_at": "2026-08-12T11:13:39.244776"
+    },
+    {
+      "british": "chassis",
+      "american": "frame",
+      "category": "transport",
+      "generated_at": "2026-08-12T11:13:39.244787"
+    },
+    {
+      "british": "artic",
+      "american": "semi-truck",
+      "category": "transport",
+      "generated_at": "2026-08-12T11:13:39.244788"
     }
   ],
-  "last_updated": "2026-08-11T22:25:21.779293"
+  "last_updated": "2026-08-12T11:13:39.244790"
 }
