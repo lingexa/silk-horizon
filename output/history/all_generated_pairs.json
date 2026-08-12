@@ -989,7 +989,25 @@
       "american": "semi-truck",
       "category": "transport",
       "generated_at": "2026-08-12T11:13:39.244788"
+    },
+    {
+      "british": "colleague",
+      "american": "coworker",
+      "category": "workplace",
+      "generated_at": "2026-08-12T22:24:29.427802"
+    },
+    {
+      "british": "office",
+      "american": "workplace",
+      "category": "workplace",
+      "generated_at": "2026-08-12T22:24:29.427813"
+    },
+    {
+      "british": "salary",
+      "american": "pay",
+      "category": "workplace",
+      "generated_at": "2026-08-12T22:24:29.427815"
     }
   ],
-  "last_updated": "2026-08-12T11:13:39.244790"
+  "last_updated": "2026-08-12T22:24:29.427817"
 }
