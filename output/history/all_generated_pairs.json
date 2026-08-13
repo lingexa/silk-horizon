@@ -1025,7 +1025,25 @@
       "american": "lingerie",
       "category": "clothing",
       "generated_at": "2026-08-13T11:13:50.014557"
+    },
+    {
+      "british": "quid",
+      "american": "buck",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T22:24:56.716151"
+    },
+    {
+      "british": "loo",
+      "american": "restroom",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T22:24:56.716162"
+    },
+    {
+      "british": "mum",
+      "american": "mom",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T22:24:56.716164"
     }
   ],
-  "last_updated": "2026-08-13T11:13:50.014560"
+  "last_updated": "2026-08-13T22:24:56.716165"
 }
