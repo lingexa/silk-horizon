@@ -1007,7 +1007,25 @@
       "american": "pay",
       "category": "workplace",
       "generated_at": "2026-08-12T22:24:29.427815"
+    },
+    {
+      "british": "chops",
+      "american": "steaks",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T11:13:50.014545"
+    },
+    {
+      "british": "candies",
+      "american": "sweets",
+      "category": "food and drink",
+      "generated_at": "2026-08-13T11:13:50.014555"
+    },
+    {
+      "british": "underclothes",
+      "american": "lingerie",
+      "category": "clothing",
+      "generated_at": "2026-08-13T11:13:50.014557"
     }
   ],
-  "last_updated": "2026-08-12T22:24:29.427817"
+  "last_updated": "2026-08-13T11:13:50.014560"
 }
