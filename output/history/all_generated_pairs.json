@@ -1043,7 +1043,25 @@
       "american": "mom",
       "category": "food and drink",
       "generated_at": "2026-08-13T22:24:56.716164"
+    },
+    {
+      "british": "bra",
+      "american": "brassiere",
+      "category": "clothing",
+      "generated_at": "2026-08-14T11:10:24.911863"
+    },
+    {
+      "british": "bra",
+      "american": "brassiere",
+      "category": "workplace",
+      "generated_at": "2026-08-14T11:10:24.911874"
+    },
+    {
+      "british": "GP",
+      "american": "PCP",
+      "category": "health",
+      "generated_at": "2026-08-14T11:10:24.911877"
     }
   ],
-  "last_updated": "2026-08-13T22:24:56.716165"
+  "last_updated": "2026-08-14T11:10:24.911880"
 }
