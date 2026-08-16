@@ -1115,7 +1115,25 @@
       "american": "aide",
       "category": "school",
       "generated_at": "2026-08-15T20:21:18.872986"
+    },
+    {
+      "british": "revise",
+      "american": "study",
+      "category": "school",
+      "generated_at": "2026-08-16T08:17:18.858772"
+    },
+    {
+      "british": "lecturer",
+      "american": "professor",
+      "category": "school",
+      "generated_at": "2026-08-16T08:17:18.858780"
+    },
+    {
+      "british": "form",
+      "american": "grade",
+      "category": "school",
+      "generated_at": "2026-08-16T08:17:18.858781"
     }
   ],
-  "last_updated": "2026-08-15T20:21:18.872988"
+  "last_updated": "2026-08-16T08:17:18.858783"
 }
