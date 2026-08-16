@@ -1133,7 +1133,25 @@
       "american": "grade",
       "category": "school",
       "generated_at": "2026-08-16T08:17:18.858781"
+    },
+    {
+      "british": "jerky",
+      "american": "chaps",
+      "category": "food and drink",
+      "generated_at": "2026-08-16T20:21:16.407675"
+    },
+    {
+      "british": "time",
+      "american": "period",
+      "category": "workplace",
+      "generated_at": "2026-08-16T20:21:16.407685"
+    },
+    {
+      "british": "meeting",
+      "american": "session",
+      "category": "workplace",
+      "generated_at": "2026-08-16T20:21:16.407686"
     }
   ],
-  "last_updated": "2026-08-16T08:17:18.858783"
+  "last_updated": "2026-08-16T20:21:16.407688"
 }
