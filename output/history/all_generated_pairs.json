@@ -1151,7 +1151,25 @@
       "american": "session",
       "category": "workplace",
       "generated_at": "2026-08-16T20:21:16.407686"
+    },
+    {
+      "british": "gymnasium",
+      "american": "gym",
+      "category": "school",
+      "generated_at": "2026-08-17T08:32:27.881275"
+    },
+    {
+      "british": "caretaker",
+      "american": "janitor",
+      "category": "school",
+      "generated_at": "2026-08-17T08:32:27.881286"
+    },
+    {
+      "british": "term",
+      "american": "semester",
+      "category": "school",
+      "generated_at": "2026-08-17T08:32:27.881287"
     }
   ],
-  "last_updated": "2026-08-16T20:21:16.407688"
+  "last_updated": "2026-08-17T08:32:27.881288"
 }
