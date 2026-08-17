@@ -1169,7 +1169,25 @@
       "american": "semester",
       "category": "school",
       "generated_at": "2026-08-17T08:32:27.881287"
+    },
+    {
+      "british": "motorcycling",
+      "american": "biking",
+      "category": "transport",
+      "generated_at": "2026-08-17T20:26:58.625511"
+    },
+    {
+      "british": "motorsport",
+      "american": "racing",
+      "category": "workplace",
+      "generated_at": "2026-08-17T20:26:58.625520"
+    },
+    {
+      "british": "motorist",
+      "american": "driver",
+      "category": "sports",
+      "generated_at": "2026-08-17T20:26:58.625521"
     }
   ],
-  "last_updated": "2026-08-17T08:32:27.881288"
+  "last_updated": "2026-08-17T20:26:58.625523"
 }
