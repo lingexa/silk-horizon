@@ -1187,7 +1187,25 @@
       "american": "driver",
       "category": "sports",
       "generated_at": "2026-08-17T20:26:58.625521"
+    },
+    {
+      "british": "punnet",
+      "american": "clamshell",
+      "category": "food and drink",
+      "generated_at": "2026-08-18T20:23:51.349848"
+    },
+    {
+      "british": "cod",
+      "american": "haddock",
+      "category": "food and drink",
+      "generated_at": "2026-08-18T20:23:51.349856"
+    },
+    {
+      "british": "kipper",
+      "american": "herring",
+      "category": "food and drink",
+      "generated_at": "2026-08-18T20:23:51.349857"
     }
   ],
-  "last_updated": "2026-08-17T20:26:58.625523"
+  "last_updated": "2026-08-18T20:23:51.349858"
 }
