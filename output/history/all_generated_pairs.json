@@ -1205,7 +1205,25 @@
       "american": "herring",
       "category": "food and drink",
       "generated_at": "2026-08-18T20:23:51.349857"
+    },
+    {
+      "british": "jodhpurs",
+      "american": "breeches",
+      "category": "clothing",
+      "generated_at": "2026-08-19T21:44:36.560395"
+    },
+    {
+      "british": "charwoman",
+      "american": "maid",
+      "category": "housing",
+      "generated_at": "2026-08-19T21:44:36.560404"
+    },
+    {
+      "british": "pupil",
+      "american": "student",
+      "category": "school",
+      "generated_at": "2026-08-19T21:44:36.560406"
     }
   ],
-  "last_updated": "2026-08-18T20:23:51.349858"
+  "last_updated": "2026-08-19T21:44:36.560407"
 }
