@@ -1241,7 +1241,25 @@
       "american": "dead-end",
       "category": "housing",
       "generated_at": "2026-08-20T08:25:41.193824"
+    },
+    {
+      "british": "tracksuit",
+      "american": "sweatsuit",
+      "category": "clothing",
+      "generated_at": "2026-08-20T20:28:15.238263"
+    },
+    {
+      "british": "windscreen",
+      "american": "windshield",
+      "category": "transport",
+      "generated_at": "2026-08-20T20:28:15.238272"
+    },
+    {
+      "british": "tracksuit",
+      "american": "sweatsuit",
+      "category": "sports",
+      "generated_at": "2026-08-20T20:28:15.238274"
     }
   ],
-  "last_updated": "2026-08-20T08:25:41.193826"
+  "last_updated": "2026-08-20T20:28:15.238276"
 }
