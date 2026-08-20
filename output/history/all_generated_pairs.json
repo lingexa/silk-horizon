@@ -1223,7 +1223,25 @@
       "american": "student",
       "category": "school",
       "generated_at": "2026-08-19T21:44:36.560406"
+    },
+    {
+      "british": "collar",
+      "american": "cuff",
+      "category": "clothing",
+      "generated_at": "2026-08-20T08:25:41.193803"
+    },
+    {
+      "british": "pedestrian",
+      "american": "walker",
+      "category": "transport",
+      "generated_at": "2026-08-20T08:25:41.193821"
+    },
+    {
+      "british": "cul-de-sac",
+      "american": "dead-end",
+      "category": "housing",
+      "generated_at": "2026-08-20T08:25:41.193824"
     }
   ],
-  "last_updated": "2026-08-19T21:44:36.560407"
+  "last_updated": "2026-08-20T08:25:41.193826"
 }
