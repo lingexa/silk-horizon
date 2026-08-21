@@ -1277,7 +1277,25 @@
       "american": "store",
       "category": "shopping",
       "generated_at": "2026-08-21T08:27:29.634723"
+    },
+    {
+      "british": " Bovril",
+      "american": "Marmite",
+      "category": "food and drink",
+      "generated_at": "2026-08-21T20:25:32.385872"
+    },
+    {
+      "british": "dress",
+      "american": "frock",
+      "category": "clothing",
+      "generated_at": "2026-08-21T20:25:32.385881"
+    },
+    {
+      "british": "pitch",
+      "american": "field",
+      "category": "sports",
+      "generated_at": "2026-08-21T20:25:32.385883"
     }
   ],
-  "last_updated": "2026-08-21T08:27:29.634725"
+  "last_updated": "2026-08-21T20:25:32.385885"
 }
