@@ -1259,7 +1259,25 @@
       "american": "sweatsuit",
       "category": "sports",
       "generated_at": "2026-08-20T20:28:15.238274"
+    },
+    {
+      "british": "roadworks",
+      "american": "construction",
+      "category": "transport",
+      "generated_at": "2026-08-21T08:27:29.634712"
+    },
+    {
+      "british": "roadworks",
+      "american": "construction",
+      "category": "housing",
+      "generated_at": "2026-08-21T08:27:29.634721"
+    },
+    {
+      "british": "shop",
+      "american": "store",
+      "category": "shopping",
+      "generated_at": "2026-08-21T08:27:29.634723"
     }
   ],
-  "last_updated": "2026-08-20T20:28:15.238276"
+  "last_updated": "2026-08-21T08:27:29.634725"
 }
