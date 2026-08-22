@@ -1313,7 +1313,25 @@
       "american": "depot",
       "category": "transport",
       "generated_at": "2026-08-22T08:17:27.849228"
+    },
+    {
+      "british": "rashers",
+      "american": "strips",
+      "category": "food and drink",
+      "generated_at": "2026-08-22T20:21:47.575699"
+    },
+    {
+      "british": "nightie",
+      "american": "nightgown",
+      "category": "clothing",
+      "generated_at": "2026-08-22T20:21:47.575709"
+    },
+    {
+      "british": "junction",
+      "american": "interchange",
+      "category": "transport",
+      "generated_at": "2026-08-22T20:21:47.575710"
     }
   ],
-  "last_updated": "2026-08-22T08:17:27.849230"
+  "last_updated": "2026-08-22T20:21:47.575712"
 }
