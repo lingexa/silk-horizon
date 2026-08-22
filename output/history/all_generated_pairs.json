@@ -1295,7 +1295,25 @@
       "american": "field",
       "category": "sports",
       "generated_at": "2026-08-21T20:25:32.385883"
+    },
+    {
+      "british": "suet",
+      "american": "shortening",
+      "category": "food and drink",
+      "generated_at": "2026-08-22T08:17:27.849217"
+    },
+    {
+      "british": "kerb",
+      "american": "curb",
+      "category": "transport",
+      "generated_at": "2026-08-22T08:17:27.849227"
+    },
+    {
+      "british": "station",
+      "american": "depot",
+      "category": "transport",
+      "generated_at": "2026-08-22T08:17:27.849228"
     }
   ],
-  "last_updated": "2026-08-21T20:25:32.385885"
+  "last_updated": "2026-08-22T08:17:27.849230"
 }
