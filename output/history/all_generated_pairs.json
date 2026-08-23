@@ -1349,7 +1349,25 @@
       "american": "playground/schoolyard",
       "category": "school",
       "generated_at": "2026-08-23T08:18:26.354876"
+    },
+    {
+      "british": "whisky",
+      "american": "whiskey",
+      "category": "food and drink",
+      "generated_at": "2026-08-23T20:22:13.850420"
+    },
+    {
+      "british": "minibus",
+      "american": "van",
+      "category": "transport",
+      "generated_at": "2026-08-23T20:22:13.850431"
+    },
+    {
+      "british": "plasters",
+      "american": "band-aids",
+      "category": "shopping",
+      "generated_at": "2026-08-23T20:22:13.850432"
     }
   ],
-  "last_updated": "2026-08-23T08:18:26.354878"
+  "last_updated": "2026-08-23T20:22:13.850434"
 }
