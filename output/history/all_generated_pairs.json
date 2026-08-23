@@ -1331,7 +1331,25 @@
       "american": "interchange",
       "category": "transport",
       "generated_at": "2026-08-22T20:21:47.575710"
+    },
+    {
+      "british": "chuddies",
+      "american": "boxers",
+      "category": "clothing",
+      "generated_at": "2026-08-23T08:18:26.354865"
+    },
+    {
+      "british": "recess",
+      "american": "recess/break",
+      "category": "school",
+      "generated_at": "2026-08-23T08:18:26.354874"
+    },
+    {
+      "british": "playground",
+      "american": "playground/schoolyard",
+      "category": "school",
+      "generated_at": "2026-08-23T08:18:26.354876"
     }
   ],
-  "last_updated": "2026-08-22T20:21:47.575712"
+  "last_updated": "2026-08-23T08:18:26.354878"
 }
