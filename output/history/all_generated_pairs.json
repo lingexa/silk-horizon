@@ -1385,7 +1385,25 @@
       "american": "program",
       "category": "workplace",
       "generated_at": "2026-08-24T08:36:46.035110"
+    },
+    {
+      "british": "bodysuit",
+      "american": "leotard",
+      "category": "clothing",
+      "generated_at": "2026-08-24T20:30:33.410107"
+    },
+    {
+      "british": "cellar",
+      "american": "basement",
+      "category": "housing",
+      "generated_at": "2026-08-24T20:30:33.410117"
+    },
+    {
+      "british": "loft",
+      "american": "attic",
+      "category": "housing",
+      "generated_at": "2026-08-24T20:30:33.410119"
     }
   ],
-  "last_updated": "2026-08-24T08:36:46.035111"
+  "last_updated": "2026-08-24T20:30:33.410120"
 }
