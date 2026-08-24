@@ -1367,7 +1367,25 @@
       "american": "band-aids",
       "category": "shopping",
       "generated_at": "2026-08-23T20:22:13.850432"
+    },
+    {
+      "british": "bangers",
+      "american": "sausages",
+      "category": "food and drink",
+      "generated_at": "2026-08-24T08:36:46.035099"
+    },
+    {
+      "british": "breakdown",
+      "american": "<bos>",
+      "category": "transport",
+      "generated_at": "2026-08-24T08:36:46.035108"
+    },
+    {
+      "british": "programme",
+      "american": "program",
+      "category": "workplace",
+      "generated_at": "2026-08-24T08:36:46.035110"
     }
   ],
-  "last_updated": "2026-08-23T20:22:13.850434"
+  "last_updated": "2026-08-24T08:36:46.035111"
 }
