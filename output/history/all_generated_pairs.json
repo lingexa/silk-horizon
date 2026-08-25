@@ -1421,7 +1421,25 @@
       "american": "roommate",
       "category": "housing",
       "generated_at": "2026-08-25T08:32:28.879618"
+    },
+    {
+      "british": "gooseberry",
+      "american": "sourberry",
+      "category": "food and drink",
+      "generated_at": "2026-08-25T20:28:19.208794"
+    },
+    {
+      "british": "verge",
+      "american": "shoulder",
+      "category": "transport",
+      "generated_at": "2026-08-25T20:28:19.208805"
+    },
+    {
+      "british": "verge",
+      "american": "shoulder",
+      "category": "housing",
+      "generated_at": "2026-08-25T20:28:19.208806"
     }
   ],
-  "last_updated": "2026-08-25T08:32:28.879620"
+  "last_updated": "2026-08-25T20:28:19.208808"
 }
