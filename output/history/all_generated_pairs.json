@@ -1403,7 +1403,25 @@
       "american": "attic",
       "category": "housing",
       "generated_at": "2026-08-24T20:30:33.410119"
+    },
+    {
+      "british": "costume",
+      "american": "outfit",
+      "category": "clothing",
+      "generated_at": "2026-08-25T08:32:28.879607"
+    },
+    {
+      "british": "slacks",
+      "american": "chinos",
+      "category": "clothing",
+      "generated_at": "2026-08-25T08:32:28.879617"
+    },
+    {
+      "british": "flatmate",
+      "american": "roommate",
+      "category": "housing",
+      "generated_at": "2026-08-25T08:32:28.879618"
     }
   ],
-  "last_updated": "2026-08-24T20:30:33.410120"
+  "last_updated": "2026-08-25T08:32:28.879620"
 }
