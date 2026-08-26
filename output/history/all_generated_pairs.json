@@ -1439,7 +1439,25 @@
       "american": "shoulder",
       "category": "housing",
       "generated_at": "2026-08-25T20:28:19.208806"
+    },
+    {
+      "british": "bras",
+      "american": "brassieres",
+      "category": "clothing",
+      "generated_at": "2026-08-26T08:37:16.438911"
+    },
+    {
+      "british": "tights",
+      "american": "pantyhose",
+      "category": "shopping",
+      "generated_at": "2026-08-26T08:37:16.438923"
+    },
+    {
+      "british": "torch",
+      "american": "flashlight",
+      "category": "shopping",
+      "generated_at": "2026-08-26T08:37:16.438924"
     }
   ],
-  "last_updated": "2026-08-25T20:28:19.208808"
+  "last_updated": "2026-08-26T08:37:16.438926"
 }
