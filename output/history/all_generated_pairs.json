@@ -1457,7 +1457,25 @@
       "american": "flashlight",
       "category": "shopping",
       "generated_at": "2026-08-26T08:37:16.438924"
+    },
+    {
+      "british": "homewear",
+      "american": "loungewear",
+      "category": "clothing",
+      "generated_at": "2026-08-26T22:44:53.758591"
+    },
+    {
+      "british": "barrow",
+      "american": "wheelbarrow",
+      "category": "transport",
+      "generated_at": "2026-08-26T22:44:53.758601"
+    },
+    {
+      "british": "cupboard",
+      "american": "closet",
+      "category": "housing",
+      "generated_at": "2026-08-26T22:44:53.758603"
     }
   ],
-  "last_updated": "2026-08-26T08:37:16.438926"
+  "last_updated": "2026-08-26T22:44:53.758605"
 }
