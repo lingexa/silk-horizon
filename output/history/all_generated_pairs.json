@@ -1475,7 +1475,25 @@
       "american": "closet",
       "category": "housing",
       "generated_at": "2026-08-26T22:44:53.758603"
+    },
+    {
+      "british": "kerbside",
+      "american": "curbside",
+      "category": "transport",
+      "generated_at": "2026-08-27T18:31:00.942428"
+    },
+    {
+      "british": "carriage",
+      "american": "car",
+      "category": "transport",
+      "generated_at": "2026-08-27T18:31:00.942439"
+    },
+    {
+      "british": "cricket",
+      "american": "baseball",
+      "category": "sports",
+      "generated_at": "2026-08-27T18:31:00.942440"
     }
   ],
-  "last_updated": "2026-08-26T22:44:53.758605"
+  "last_updated": "2026-08-27T18:31:00.942443"
 }
