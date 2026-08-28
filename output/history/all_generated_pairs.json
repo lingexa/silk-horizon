@@ -1511,7 +1511,25 @@
       "american": "loft",
       "category": "housing",
       "generated_at": "2026-08-28T04:03:42.650977"
+    },
+    {
+      "british": "dipper",
+      "american": "dipstick",
+      "category": "transport",
+      "generated_at": "2026-08-28T19:47:29.172241"
+    },
+    {
+      "british": "sherbet",
+      "american": "sorbet",
+      "category": "food and drink",
+      "generated_at": "2026-08-28T19:47:29.172250"
+    },
+    {
+      "british": "gaiter",
+      "american": "spat",
+      "category": "clothing",
+      "generated_at": "2026-08-28T19:47:29.172252"
     }
   ],
-  "last_updated": "2026-08-28T04:03:42.650979"
+  "last_updated": "2026-08-28T19:47:29.172254"
 }
