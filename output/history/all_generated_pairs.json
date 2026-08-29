@@ -1565,7 +1565,25 @@
       "american": "washroom",
       "category": "housing",
       "generated_at": "2026-08-29T13:28:30.571078"
+    },
+    {
+      "british": "corn",
+      "american": "maize",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T22:23:41.645931"
+    },
+    {
+      "british": "bacon",
+      "american": "rashers",
+      "category": "food and drink",
+      "generated_at": "2026-08-29T22:23:41.645939"
+    },
+    {
+      "british": "car",
+      "american": "automobile",
+      "category": "transport",
+      "generated_at": "2026-08-29T22:23:41.645940"
     }
   ],
-  "last_updated": "2026-08-29T13:28:30.571080"
+  "last_updated": "2026-08-29T22:23:41.645942"
 }
