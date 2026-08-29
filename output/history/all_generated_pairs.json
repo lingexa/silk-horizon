@@ -1529,7 +1529,25 @@
       "american": "spat",
       "category": "clothing",
       "generated_at": "2026-08-28T19:47:29.172252"
+    },
+    {
+      "british": "colloquialism",
+      "american": "slang",
+      "category": "clothing",
+      "generated_at": "2026-08-29T02:44:14.250184"
+    },
+    {
+      "british": "colour",
+      "american": "color",
+      "category": "clothing",
+      "generated_at": "2026-08-29T02:44:14.250192"
+    },
+    {
+      "british": "roundabout",
+      "american": "rotary",
+      "category": "transport",
+      "generated_at": "2026-08-29T02:44:14.250194"
     }
   ],
-  "last_updated": "2026-08-28T19:47:29.172254"
+  "last_updated": "2026-08-29T02:44:14.250196"
 }
