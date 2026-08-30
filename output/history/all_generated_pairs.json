@@ -1601,7 +1601,25 @@
       "american": "driveway",
       "category": "housing",
       "generated_at": "2026-08-30T13:25:13.877798"
+    },
+    {
+      "british": "brussels",
+      "american": "sprouts",
+      "category": "food and drink",
+      "generated_at": "2026-08-30T22:26:41.102268"
+    },
+    {
+      "british": "chinos",
+      "american": "khakis",
+      "category": "clothing",
+      "generated_at": "2026-08-30T22:26:41.102277"
+    },
+    {
+      "british": "pavement",
+      "american": "road",
+      "category": "transport",
+      "generated_at": "2026-08-30T22:26:41.102279"
     }
   ],
-  "last_updated": "2026-08-30T13:25:13.877800"
+  "last_updated": "2026-08-30T22:26:41.102280"
 }
