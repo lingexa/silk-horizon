@@ -1583,7 +1583,25 @@
       "american": "automobile",
       "category": "transport",
       "generated_at": "2026-08-29T22:23:41.645940"
+    },
+    {
+      "british": "sage",
+      "american": "herb",
+      "category": "food and drink",
+      "generated_at": "2026-08-30T13:25:13.877787"
+    },
+    {
+      "british": "hitchhiker",
+      "american": "backpacker",
+      "category": "transport",
+      "generated_at": "2026-08-30T13:25:13.877796"
+    },
+    {
+      "british": "drive",
+      "american": "driveway",
+      "category": "housing",
+      "generated_at": "2026-08-30T13:25:13.877798"
     }
   ],
-  "last_updated": "2026-08-29T22:23:41.645942"
+  "last_updated": "2026-08-30T13:25:13.877800"
 }
