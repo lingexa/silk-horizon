@@ -1619,7 +1619,25 @@
       "american": "road",
       "category": "transport",
       "generated_at": "2026-08-30T22:26:41.102279"
+    },
+    {
+      "british": "crossroads",
+      "american": "intersection",
+      "category": "transport",
+      "generated_at": "2026-08-31T15:46:54.861417"
+    },
+    {
+      "british": "subway",
+      "american": "underground",
+      "category": "transport",
+      "generated_at": "2026-08-31T15:46:54.861426"
+    },
+    {
+      "british": "rubbish",
+      "american": "trash",
+      "category": "school",
+      "generated_at": "2026-08-31T15:46:54.861428"
     }
   ],
-  "last_updated": "2026-08-30T22:26:41.102280"
+  "last_updated": "2026-08-31T15:46:54.861430"
 }
