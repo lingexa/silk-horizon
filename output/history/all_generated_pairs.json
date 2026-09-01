@@ -1643,7 +1643,25 @@
       "american": "camisole",
       "category": "clothing",
       "generated_at": "2026-08-31T23:40:50.597090"
+    },
+    {
+      "british": "cilantro",
+      "american": "coriander",
+      "category": "food and drink",
+      "generated_at": "2026-09-01T12:53:02.491100"
+    },
+    {
+      "british": "bathrobe",
+      "american": "robe",
+      "category": "clothing",
+      "generated_at": "2026-09-01T12:53:02.491110"
+    },
+    {
+      "british": "driveway",
+      "american": "drive",
+      "category": "housing",
+      "generated_at": "2026-09-01T12:53:02.491112"
     }
   ],
-  "last_updated": "2026-08-31T23:40:50.597099"
+  "last_updated": "2026-09-01T12:53:02.491114"
 }
