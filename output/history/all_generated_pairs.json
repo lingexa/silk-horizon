@@ -1661,7 +1661,25 @@
       "american": "drive",
       "category": "housing",
       "generated_at": "2026-09-01T12:53:02.491112"
+    },
+    {
+      "british": "kiwifruit",
+      "american": "kiwi",
+      "category": "food and drink",
+      "generated_at": "2026-09-01T22:25:37.410891"
+    },
+    {
+      "british": "net",
+      "american": "goal",
+      "category": "sports",
+      "generated_at": "2026-09-01T22:25:37.410902"
+    },
+    {
+      "british": "cleats",
+      "american": "studs",
+      "category": "sports",
+      "generated_at": "2026-09-01T22:25:37.410903"
     }
   ],
-  "last_updated": "2026-09-01T12:53:02.491114"
+  "last_updated": "2026-09-01T22:25:37.410905"
 }
