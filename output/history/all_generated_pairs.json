@@ -1679,7 +1679,25 @@
       "american": "studs",
       "category": "sports",
       "generated_at": "2026-09-01T22:25:37.410903"
+    },
+    {
+      "british": "haematologist",
+      "american": "hematologist",
+      "category": "health",
+      "generated_at": "2026-09-02T12:23:39.171565"
+    },
+    {
+      "british": "anaemic",
+      "american": "anemic",
+      "category": "health",
+      "generated_at": "2026-09-02T12:23:39.171575"
+    },
+    {
+      "british": "anaemia",
+      "american": "anemia",
+      "category": "health",
+      "generated_at": "2026-09-02T12:23:39.171577"
     }
   ],
-  "last_updated": "2026-09-01T22:25:37.410905"
+  "last_updated": "2026-09-02T12:23:39.171579"
 }
