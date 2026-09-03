@@ -1715,7 +1715,25 @@
       "american": "smokestack",
       "category": "housing",
       "generated_at": "2026-09-02T22:25:51.137312"
+    },
+    {
+      "british": "well-worn",
+      "american": "worn-out",
+      "category": "clothing",
+      "generated_at": "2026-09-03T12:21:57.638787"
+    },
+    {
+      "british": "cooker",
+      "american": "stove",
+      "category": "housing",
+      "generated_at": "2026-09-03T12:21:57.638796"
+    },
+    {
+      "british": "antechamber",
+      "american": "anteroom",
+      "category": "housing",
+      "generated_at": "2026-09-03T12:21:57.638797"
     }
   ],
-  "last_updated": "2026-09-02T22:25:51.137314"
+  "last_updated": "2026-09-03T12:21:57.638799"
 }
