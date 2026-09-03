@@ -1733,7 +1733,25 @@
       "american": "anteroom",
       "category": "housing",
       "generated_at": "2026-09-03T12:21:57.638797"
+    },
+    {
+      "british": "licence",
+      "american": "license",
+      "category": "transport",
+      "generated_at": "2026-09-03T22:19:29.397773"
+    },
+    {
+      "british": "winding",
+      "american": "curvy",
+      "category": "transport",
+      "generated_at": "2026-09-03T22:19:29.397784"
+    },
+    {
+      "british": "exams",
+      "american": "tests",
+      "category": "school",
+      "generated_at": "2026-09-03T22:19:29.397785"
     }
   ],
-  "last_updated": "2026-09-03T12:21:57.638799"
+  "last_updated": "2026-09-03T22:19:29.397787"
 }
