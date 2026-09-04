@@ -1751,7 +1751,25 @@
       "american": "tests",
       "category": "school",
       "generated_at": "2026-09-03T22:19:29.397785"
+    },
+    {
+      "british": "taxi",
+      "american": "cab",
+      "category": "transport",
+      "generated_at": "2026-09-04T12:22:26.985919"
+    },
+    {
+      "british": "landing",
+      "american": "hallway",
+      "category": "housing",
+      "generated_at": "2026-09-04T12:22:26.985931"
+    },
+    {
+      "british": "outhouse",
+      "american": "outbuilding",
+      "category": "housing",
+      "generated_at": "2026-09-04T12:22:26.985932"
     }
   ],
-  "last_updated": "2026-09-03T22:19:29.397787"
+  "last_updated": "2026-09-04T12:22:26.985934"
 }
