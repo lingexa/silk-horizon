@@ -1769,7 +1769,25 @@
       "american": "outbuilding",
       "category": "housing",
       "generated_at": "2026-09-04T12:22:26.985932"
+    },
+    {
+      "british": "raincoat",
+      "american": "slicker",
+      "category": "clothing",
+      "generated_at": "2026-09-04T22:09:27.199852"
+    },
+    {
+      "british": "indicators",
+      "american": "blinkers",
+      "category": "transport",
+      "generated_at": "2026-09-04T22:09:27.199860"
+    },
+    {
+      "british": "raincoat",
+      "american": "slicker",
+      "category": "housing",
+      "generated_at": "2026-09-04T22:09:27.199862"
     }
   ],
-  "last_updated": "2026-09-04T12:22:26.985934"
+  "last_updated": "2026-09-04T22:09:27.199864"
 }
