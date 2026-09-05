@@ -1787,7 +1787,25 @@
       "american": "slicker",
       "category": "housing",
       "generated_at": "2026-09-04T22:09:27.199862"
+    },
+    {
+      "british": "film",
+      "american": "movie",
+      "category": "workplace",
+      "generated_at": "2026-09-05T11:28:53.763400"
+    },
+    {
+      "british": "film",
+      "american": "movie",
+      "category": "school",
+      "generated_at": "2026-09-05T11:28:53.763409"
+    },
+    {
+      "british": "exam",
+      "american": "test",
+      "category": "school",
+      "generated_at": "2026-09-05T11:28:53.763410"
     }
   ],
-  "last_updated": "2026-09-04T22:09:27.199864"
+  "last_updated": "2026-09-05T11:28:53.763412"
 }
