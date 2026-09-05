@@ -1805,7 +1805,25 @@
       "american": "test",
       "category": "school",
       "generated_at": "2026-09-05T11:28:53.763410"
+    },
+    {
+      "british": "capital",
+      "american": "uppercase",
+      "category": "school",
+      "generated_at": "2026-09-05T21:57:26.449619"
+    },
+    {
+      "british": "text",
+      "american": "assignment",
+      "category": "school",
+      "generated_at": "2026-09-05T21:57:26.449632"
+    },
+    {
+      "british": "essay",
+      "american": "composition",
+      "category": "school",
+      "generated_at": "2026-09-05T21:57:26.449633"
     }
   ],
-  "last_updated": "2026-09-05T11:28:53.763412"
+  "last_updated": "2026-09-05T21:57:26.449635"
 }
