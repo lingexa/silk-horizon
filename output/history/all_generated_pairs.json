@@ -1823,7 +1823,25 @@
       "american": "composition",
       "category": "school",
       "generated_at": "2026-09-05T21:57:26.449633"
+    },
+    {
+      "british": "sweeter",
+      "american": "sugar",
+      "category": "food and drink",
+      "generated_at": "2026-09-06T11:50:46.579038"
+    },
+    {
+      "british": "pram",
+      "american": "stroller",
+      "category": "workplace",
+      "generated_at": "2026-09-06T11:50:46.579048"
+    },
+    {
+      "british": "england",
+      "american": "britain",
+      "category": "shopping",
+      "generated_at": "2026-09-06T11:50:46.579049"
     }
   ],
-  "last_updated": "2026-09-05T21:57:26.449635"
+  "last_updated": "2026-09-06T11:50:46.579051"
 }
