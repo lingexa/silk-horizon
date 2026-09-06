@@ -1841,7 +1841,25 @@
       "american": "britain",
       "category": "shopping",
       "generated_at": "2026-09-06T11:50:46.579049"
+    },
+    {
+      "british": "gammon",
+      "american": "ham",
+      "category": "food and drink",
+      "generated_at": "2026-09-06T21:58:17.505768"
+    },
+    {
+      "british": "faggot",
+      "american": "meatball",
+      "category": "food and drink",
+      "generated_at": "2026-09-06T21:58:17.505777"
+    },
+    {
+      "british": "bell-bottoms",
+      "american": "flares",
+      "category": "clothing",
+      "generated_at": "2026-09-06T21:58:17.505779"
     }
   ],
-  "last_updated": "2026-09-06T11:50:46.579051"
+  "last_updated": "2026-09-06T21:58:17.505781"
 }
