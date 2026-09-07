@@ -1859,7 +1859,25 @@
       "american": "flares",
       "category": "clothing",
       "generated_at": "2026-09-06T21:58:17.505779"
+    },
+    {
+      "british": "bolthole",
+      "american": "hideaway",
+      "category": "housing",
+      "generated_at": "2026-09-07T13:47:41.735008"
+    },
+    {
+      "british": "semidetached",
+      "american": "two-family",
+      "category": "housing",
+      "generated_at": "2026-09-07T13:47:41.735019"
+    },
+    {
+      "british": "detached",
+      "american": "single-family",
+      "category": "housing",
+      "generated_at": "2026-09-07T13:47:41.735021"
     }
   ],
-  "last_updated": "2026-09-06T21:58:17.505781"
+  "last_updated": "2026-09-07T13:47:41.735023"
 }
