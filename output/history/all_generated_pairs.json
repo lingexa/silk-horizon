@@ -1913,7 +1913,25 @@
       "american": "tap",
       "category": "housing",
       "generated_at": "2026-09-08T12:23:24.686987"
+    },
+    {
+      "british": "taps",
+      "american": "faucets",
+      "category": "housing",
+      "generated_at": "2026-09-08T22:23:58.548229"
+    },
+    {
+      "british": "tutor",
+      "american": "coach",
+      "category": "school",
+      "generated_at": "2026-09-08T22:23:58.548237"
+    },
+    {
+      "british": "nursery",
+      "american": "preschool",
+      "category": "school",
+      "generated_at": "2026-09-08T22:23:58.548238"
     }
   ],
-  "last_updated": "2026-09-08T12:23:24.686989"
+  "last_updated": "2026-09-08T22:23:58.548240"
 }
