@@ -1895,7 +1895,25 @@
       "american": "row",
       "category": "housing",
       "generated_at": "2026-09-07T22:31:33.071501"
+    },
+    {
+      "british": "saloon",
+      "american": "sedan",
+      "category": "transport",
+      "generated_at": "2026-09-08T12:23:24.686979"
+    },
+    {
+      "british": "hoover",
+      "american": "vacuum",
+      "category": "housing",
+      "generated_at": "2026-09-08T12:23:24.686985"
+    },
+    {
+      "british": "faucet",
+      "american": "tap",
+      "category": "housing",
+      "generated_at": "2026-09-08T12:23:24.686987"
     }
   ],
-  "last_updated": "2026-09-07T22:31:33.071503"
+  "last_updated": "2026-09-08T12:23:24.686989"
 }
