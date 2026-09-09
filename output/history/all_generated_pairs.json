@@ -1931,7 +1931,25 @@
       "american": "preschool",
       "category": "school",
       "generated_at": "2026-09-08T22:23:58.548238"
+    },
+    {
+      "british": "marmite",
+      "american": "Vegemite",
+      "category": "food and drink",
+      "generated_at": "2026-09-09T12:35:02.552564"
+    },
+    {
+      "british": "shawl",
+      "american": "wrap",
+      "category": "clothing",
+      "generated_at": "2026-09-09T12:35:02.552573"
+    },
+    {
+      "british": "yearbook",
+      "american": "annual",
+      "category": "school",
+      "generated_at": "2026-09-09T12:35:02.552575"
     }
   ],
-  "last_updated": "2026-09-08T22:23:58.548240"
+  "last_updated": "2026-09-09T12:35:02.552576"
 }
