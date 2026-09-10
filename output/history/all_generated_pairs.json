@@ -1967,7 +1967,25 @@
       "american": "refrigerator",
       "category": "shopping",
       "generated_at": "2026-09-09T22:18:06.296958"
+    },
+    {
+      "british": "pease",
+      "american": "peas",
+      "category": "food and drink",
+      "generated_at": "2026-09-10T12:27:59.417596"
+    },
+    {
+      "british": "leek",
+      "american": "scallion",
+      "category": "food and drink",
+      "generated_at": "2026-09-10T12:27:59.417604"
+    },
+    {
+      "british": "chickpeas",
+      "american": "garbanzos",
+      "category": "food and drink",
+      "generated_at": "2026-09-10T12:27:59.417606"
     }
   ],
-  "last_updated": "2026-09-09T22:18:06.296960"
+  "last_updated": "2026-09-10T12:27:59.417607"
 }
