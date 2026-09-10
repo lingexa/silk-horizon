@@ -1985,7 +1985,25 @@
       "american": "garbanzos",
       "category": "food and drink",
       "generated_at": "2026-09-10T12:27:59.417606"
+    },
+    {
+      "british": "mate",
+      "american": "buddy",
+      "category": "workplace",
+      "generated_at": "2026-09-10T22:17:22.628569"
+    },
+    {
+      "british": "cinema",
+      "american": "movies",
+      "category": "shopping",
+      "generated_at": "2026-09-10T22:17:22.628579"
+    },
+    {
+      "british": "pub",
+      "american": "bar",
+      "category": "shopping",
+      "generated_at": "2026-09-10T22:17:22.628582"
     }
   ],
-  "last_updated": "2026-09-10T12:27:59.417607"
+  "last_updated": "2026-09-10T22:17:22.628585"
 }
