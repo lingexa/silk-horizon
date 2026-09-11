@@ -2003,7 +2003,25 @@
       "american": "bar",
       "category": "shopping",
       "generated_at": "2026-09-10T22:17:22.628582"
+    },
+    {
+      "british": "pastille",
+      "american": "lozenge",
+      "category": "food and drink",
+      "generated_at": "2026-09-11T12:27:10.955183"
+    },
+    {
+      "british": "stationary",
+      "american": "stopped",
+      "category": "transport",
+      "generated_at": "2026-09-11T12:27:10.955190"
+    },
+    {
+      "british": "week-end",
+      "american": "weekend",
+      "category": "workplace",
+      "generated_at": "2026-09-11T12:27:10.955192"
     }
   ],
-  "last_updated": "2026-09-10T22:17:22.628585"
+  "last_updated": "2026-09-11T12:27:10.955193"
 }
