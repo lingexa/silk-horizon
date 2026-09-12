@@ -2057,7 +2057,25 @@
       "american": "center",
       "category": "transport",
       "generated_at": "2026-09-12T11:48:18.601823"
+    },
+    {
+      "british": "shed",
+      "american": "storage",
+      "category": "housing",
+      "generated_at": "2026-09-12T21:57:59.276888"
+    },
+    {
+      "british": "course",
+      "american": "major",
+      "category": "school",
+      "generated_at": "2026-09-12T21:57:59.276896"
+    },
+    {
+      "british": "packet",
+      "american": "bag",
+      "category": "sports",
+      "generated_at": "2026-09-12T21:57:59.276898"
     }
   ],
-  "last_updated": "2026-09-12T11:48:18.601825"
+  "last_updated": "2026-09-12T21:57:59.276899"
 }
