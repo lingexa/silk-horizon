@@ -2039,7 +2039,25 @@
       "american": "motor",
       "category": "technology",
       "generated_at": "2026-09-11T22:17:56.098660"
+    },
+    {
+      "british": "nectarine",
+      "american": "peach",
+      "category": "food and drink",
+      "generated_at": "2026-09-12T11:48:18.601813"
+    },
+    {
+      "british": "peach",
+      "american": "nectarine",
+      "category": "food and drink",
+      "generated_at": "2026-09-12T11:48:18.601822"
+    },
+    {
+      "british": "centre",
+      "american": "center",
+      "category": "transport",
+      "generated_at": "2026-09-12T11:48:18.601823"
     }
   ],
-  "last_updated": "2026-09-11T22:17:56.098662"
+  "last_updated": "2026-09-12T11:48:18.601825"
 }
