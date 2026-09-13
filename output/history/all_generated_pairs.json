@@ -2093,7 +2093,25 @@
       "american": "specialist",
       "category": "health",
       "generated_at": "2026-09-13T12:56:18.612818"
+    },
+    {
+      "british": "goal",
+      "american": "net",
+      "category": "sports",
+      "generated_at": "2026-09-13T22:10:22.217673"
+    },
+    {
+      "british": "racket",
+      "american": "racquet",
+      "category": "sports",
+      "generated_at": "2026-09-13T22:10:22.217683"
+    },
+    {
+      "british": "shuttlecock",
+      "american": "birdie",
+      "category": "sports",
+      "generated_at": "2026-09-13T22:10:22.217685"
     }
   ],
-  "last_updated": "2026-09-13T12:56:18.612820"
+  "last_updated": "2026-09-13T22:10:22.217687"
 }
