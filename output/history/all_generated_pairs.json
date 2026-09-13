@@ -2075,7 +2075,25 @@
       "american": "bag",
       "category": "sports",
       "generated_at": "2026-09-12T21:57:59.276898"
+    },
+    {
+      "british": "rail",
+      "american": "track",
+      "category": "transport",
+      "generated_at": "2026-09-13T12:56:18.612807"
+    },
+    {
+      "british": "chemotherapy",
+      "american": "chemo",
+      "category": "health",
+      "generated_at": "2026-09-13T12:56:18.612816"
+    },
+    {
+      "british": "consultant",
+      "american": "specialist",
+      "category": "health",
+      "generated_at": "2026-09-13T12:56:18.612818"
     }
   ],
-  "last_updated": "2026-09-12T21:57:59.276899"
+  "last_updated": "2026-09-13T12:56:18.612820"
 }
