@@ -2129,7 +2129,25 @@
       "american": "ice",
       "category": "food and drink",
       "generated_at": "2026-09-14T14:33:24.458426"
+    },
+    {
+      "british": "radiator",
+      "american": "heater",
+      "category": "housing",
+      "generated_at": "2026-09-14T22:58:53.068091"
+    },
+    {
+      "british": "windowpane",
+      "american": "window",
+      "category": "housing",
+      "generated_at": "2026-09-14T22:58:53.068102"
+    },
+    {
+      "british": "lolly",
+      "american": "sucker",
+      "category": "workplace",
+      "generated_at": "2026-09-14T22:58:53.068103"
     }
   ],
-  "last_updated": "2026-09-14T14:33:24.458428"
+  "last_updated": "2026-09-14T22:58:53.068105"
 }
