@@ -2165,7 +2165,25 @@
       "american": "bakery",
       "category": "shopping",
       "generated_at": "2026-09-15T12:59:47.578851"
+    },
+    {
+      "british": "sharer",
+      "american": "appetizer",
+      "category": "food and drink",
+      "generated_at": "2026-09-15T22:44:30.421630"
+    },
+    {
+      "british": "velcro",
+      "american": "hook-and-loop",
+      "category": "clothing",
+      "generated_at": "2026-09-15T22:44:30.421642"
+    },
+    {
+      "british": "scarf",
+      "american": "neckerchief",
+      "category": "clothing",
+      "generated_at": "2026-09-15T22:44:30.421643"
     }
   ],
-  "last_updated": "2026-09-15T12:59:47.578853"
+  "last_updated": "2026-09-15T22:44:30.421645"
 }
