@@ -2147,7 +2147,25 @@
       "american": "sucker",
       "category": "workplace",
       "generated_at": "2026-09-14T22:58:53.068103"
+    },
+    {
+      "british": "spoon",
+      "american": "scoop",
+      "category": "school",
+      "generated_at": "2026-09-15T12:59:47.578843"
+    },
+    {
+      "british": "tray",
+      "american": "platter",
+      "category": "school",
+      "generated_at": "2026-09-15T12:59:47.578849"
+    },
+    {
+      "british": "baker's",
+      "american": "bakery",
+      "category": "shopping",
+      "generated_at": "2026-09-15T12:59:47.578851"
     }
   ],
-  "last_updated": "2026-09-14T22:58:53.068105"
+  "last_updated": "2026-09-15T12:59:47.578853"
 }
