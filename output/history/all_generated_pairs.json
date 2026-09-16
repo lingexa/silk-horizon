@@ -2183,7 +2183,25 @@
       "american": "neckerchief",
       "category": "clothing",
       "generated_at": "2026-09-15T22:44:30.421643"
+    },
+    {
+      "british": "mad",
+      "american": "angry",
+      "category": "food and drink",
+      "generated_at": "2026-09-16T12:56:37.240863"
+    },
+    {
+      "british": "velour",
+      "american": "velvet",
+      "category": "clothing",
+      "generated_at": "2026-09-16T12:56:37.240872"
+    },
+    {
+      "british": "tunnel",
+      "american": "tube",
+      "category": "transport",
+      "generated_at": "2026-09-16T12:56:37.240873"
     }
   ],
-  "last_updated": "2026-09-15T22:44:30.421645"
+  "last_updated": "2026-09-16T12:56:37.240875"
 }
