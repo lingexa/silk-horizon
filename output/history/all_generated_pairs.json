@@ -2201,7 +2201,25 @@
       "american": "tube",
       "category": "transport",
       "generated_at": "2026-09-16T12:56:37.240873"
+    },
+    {
+      "british": "window",
+      "american": "windowpane",
+      "category": "housing",
+      "generated_at": "2026-09-16T22:41:17.512643"
+    },
+    {
+      "british": "break",
+      "american": "recess",
+      "category": "school",
+      "generated_at": "2026-09-16T22:41:17.512658"
+    },
+    {
+      "british": "icy",
+      "american": "iced",
+      "category": "sports",
+      "generated_at": "2026-09-16T22:41:17.512660"
     }
   ],
-  "last_updated": "2026-09-16T12:56:37.240875"
+  "last_updated": "2026-09-16T22:41:17.512662"
 }
