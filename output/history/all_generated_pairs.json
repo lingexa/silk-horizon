@@ -2219,7 +2219,25 @@
       "american": "iced",
       "category": "sports",
       "generated_at": "2026-09-16T22:41:17.512660"
+    },
+    {
+      "british": "singlet",
+      "american": "t-shirt",
+      "category": "clothing",
+      "generated_at": "2026-09-17T12:53:27.825257"
+    },
+    {
+      "british": "dormitory",
+      "american": "dorm",
+      "category": "school",
+      "generated_at": "2026-09-17T12:53:27.825267"
+    },
+    {
+      "british": "wrestler",
+      "american": "grappler",
+      "category": "sports",
+      "generated_at": "2026-09-17T12:53:27.825269"
     }
   ],
-  "last_updated": "2026-09-16T22:41:17.512662"
+  "last_updated": "2026-09-17T12:53:27.825271"
 }
