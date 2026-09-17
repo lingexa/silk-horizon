@@ -2237,7 +2237,25 @@
       "american": "grappler",
       "category": "sports",
       "generated_at": "2026-09-17T12:53:27.825269"
+    },
+    {
+      "british": "sugar",
+      "american": "sweetener",
+      "category": "food and drink",
+      "generated_at": "2026-09-17T22:42:35.584510"
+    },
+    {
+      "british": "carport",
+      "american": "garage",
+      "category": "housing",
+      "generated_at": "2026-09-17T22:42:35.584520"
+    },
+    {
+      "british": "mock",
+      "american": "practice",
+      "category": "school",
+      "generated_at": "2026-09-17T22:42:35.584522"
     }
   ],
-  "last_updated": "2026-09-17T12:53:27.825271"
+  "last_updated": "2026-09-17T22:42:35.584524"
 }
