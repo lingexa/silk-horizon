@@ -2273,7 +2273,25 @@
       "american": "ejection",
       "category": "sports",
       "generated_at": "2026-09-18T12:28:56.226883"
+    },
+    {
+      "british": "toffees",
+      "american": "caramels",
+      "category": "food and drink",
+      "generated_at": "2026-09-18T22:20:58.648475"
+    },
+    {
+      "british": "chalkboard",
+      "american": "blackboard",
+      "category": "school",
+      "generated_at": "2026-09-18T22:20:58.648485"
+    },
+    {
+      "british": "report",
+      "american": "transcript",
+      "category": "school",
+      "generated_at": "2026-09-18T22:20:58.648486"
     }
   ],
-  "last_updated": "2026-09-18T12:28:56.226884"
+  "last_updated": "2026-09-18T22:20:58.648487"
 }
