@@ -2255,7 +2255,25 @@
       "american": "practice",
       "category": "school",
       "generated_at": "2026-09-17T22:42:35.584522"
+    },
+    {
+      "british": "match",
+      "american": "game",
+      "category": "sports",
+      "generated_at": "2026-09-18T12:28:56.226873"
+    },
+    {
+      "british": "umpire",
+      "american": "referee",
+      "category": "sports",
+      "generated_at": "2026-09-18T12:28:56.226881"
+    },
+    {
+      "british": "send-off",
+      "american": "ejection",
+      "category": "sports",
+      "generated_at": "2026-09-18T12:28:56.226883"
     }
   ],
-  "last_updated": "2026-09-17T22:42:35.584524"
+  "last_updated": "2026-09-18T12:28:56.226884"
 }
