@@ -2309,7 +2309,25 @@
       "american": "tunnel",
       "category": "transport",
       "generated_at": "2026-09-19T12:11:21.726249"
+    },
+    {
+      "british": "pitcher",
+      "american": "hurler",
+      "category": "sports",
+      "generated_at": "2026-09-19T22:09:13.376141"
+    },
+    {
+      "british": "goalkeeper",
+      "american": "goalie",
+      "category": "sports",
+      "generated_at": "2026-09-19T22:09:13.376151"
+    },
+    {
+      "british": "winger",
+      "american": "outfielder",
+      "category": "sports",
+      "generated_at": "2026-09-19T22:09:13.376153"
     }
   ],
-  "last_updated": "2026-09-19T12:11:21.726250"
+  "last_updated": "2026-09-19T22:09:13.376155"
 }
