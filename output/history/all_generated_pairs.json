@@ -2345,7 +2345,25 @@
       "american": "up",
       "category": "housing",
       "generated_at": "2026-09-20T12:45:15.106443"
+    },
+    {
+      "british": "rubber",
+      "american": "eraser",
+      "category": "food and drink",
+      "generated_at": "2026-09-20T22:13:40.425544"
+    },
+    {
+      "british": "shorts",
+      "american": "cut-offs",
+      "category": "clothing",
+      "generated_at": "2026-09-20T22:13:40.425572"
+    },
+    {
+      "british": "council",
+      "american": "municipal",
+      "category": "housing",
+      "generated_at": "2026-09-20T22:13:40.425574"
     }
   ],
-  "last_updated": "2026-09-20T12:45:15.106445"
+  "last_updated": "2026-09-20T22:13:40.425575"
 }
