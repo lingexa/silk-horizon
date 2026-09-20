@@ -2327,7 +2327,25 @@
       "american": "outfielder",
       "category": "sports",
       "generated_at": "2026-09-19T22:09:13.376153"
+    },
+    {
+      "british": "nationality",
+      "american": "citizenship",
+      "category": "transport",
+      "generated_at": "2026-09-20T12:45:15.106428"
+    },
+    {
+      "british": "downstairs",
+      "american": "down",
+      "category": "housing",
+      "generated_at": "2026-09-20T12:45:15.106441"
+    },
+    {
+      "british": "upstairs",
+      "american": "up",
+      "category": "housing",
+      "generated_at": "2026-09-20T12:45:15.106443"
     }
   ],
-  "last_updated": "2026-09-19T22:09:13.376155"
+  "last_updated": "2026-09-20T12:45:15.106445"
 }
