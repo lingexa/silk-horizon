@@ -2381,7 +2381,25 @@
       "american": "behavior",
       "category": "school",
       "generated_at": "2026-09-21T14:41:13.872348"
+    },
+    {
+      "british": "floury",
+      "american": "starchy",
+      "category": "food and drink",
+      "generated_at": "2026-09-21T23:02:07.816189"
+    },
+    {
+      "british": "freezer",
+      "american": "icebox",
+      "category": "food and drink",
+      "generated_at": "2026-09-21T23:02:07.816197"
+    },
+    {
+      "british": "scoff",
+      "american": "gobble",
+      "category": "food and drink",
+      "generated_at": "2026-09-21T23:02:07.816199"
     }
   ],
-  "last_updated": "2026-09-21T14:41:13.872350"
+  "last_updated": "2026-09-21T23:02:07.816201"
 }
