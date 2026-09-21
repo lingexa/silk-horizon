@@ -2363,7 +2363,25 @@
       "american": "municipal",
       "category": "housing",
       "generated_at": "2026-09-20T22:13:40.425574"
+    },
+    {
+      "british": "sorbet",
+      "american": "sherbet",
+      "category": "food and drink",
+      "generated_at": "2026-09-21T14:41:13.872337"
+    },
+    {
+      "british": "chateau",
+      "american": "mansion",
+      "category": "housing",
+      "generated_at": "2026-09-21T14:41:13.872346"
+    },
+    {
+      "british": "behaviour",
+      "american": "behavior",
+      "category": "school",
+      "generated_at": "2026-09-21T14:41:13.872348"
     }
   ],
-  "last_updated": "2026-09-20T22:13:40.425575"
+  "last_updated": "2026-09-21T14:41:13.872350"
 }
