@@ -2453,7 +2453,25 @@
       "american": "banister",
       "category": "housing",
       "generated_at": "2026-09-23T13:07:40.232053"
+    },
+    {
+      "british": "gymslip",
+      "american": "skirt",
+      "category": "clothing",
+      "generated_at": "2026-09-23T22:42:58.577191"
+    },
+    {
+      "british": "enginery",
+      "american": "machinery",
+      "category": "workplace",
+      "generated_at": "2026-09-23T22:42:58.577202"
+    },
+    {
+      "british": "colours",
+      "american": "colors",
+      "category": "school",
+      "generated_at": "2026-09-23T22:42:58.577204"
     }
   ],
-  "last_updated": "2026-09-23T13:07:40.232055"
+  "last_updated": "2026-09-23T22:42:58.577206"
 }
