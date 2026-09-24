@@ -2471,7 +2471,25 @@
       "american": "colors",
       "category": "school",
       "generated_at": "2026-09-23T22:42:58.577204"
+    },
+    {
+      "british": "brewery",
+      "american": "distillery",
+      "category": "food and drink",
+      "generated_at": "2026-09-24T13:01:17.600402"
+    },
+    {
+      "british": "canteen",
+      "american": "cafeteria",
+      "category": "food and drink",
+      "generated_at": "2026-09-24T13:01:17.600410"
+    },
+    {
+      "british": "cot",
+      "american": "crib",
+      "category": "workplace",
+      "generated_at": "2026-09-24T13:01:17.600412"
     }
   ],
-  "last_updated": "2026-09-23T22:42:58.577206"
+  "last_updated": "2026-09-24T13:01:17.600414"
 }
