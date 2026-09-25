@@ -2507,7 +2507,25 @@
       "american": "veranda",
       "category": "housing",
       "generated_at": "2026-09-24T23:02:05.664802"
+    },
+    {
+      "british": "buns",
+      "american": "rolls",
+      "category": "food and drink",
+      "generated_at": "2026-09-25T13:07:09.387131"
+    },
+    {
+      "british": "wireless",
+      "american": "radio",
+      "category": "housing",
+      "generated_at": "2026-09-25T13:07:09.387139"
+    },
+    {
+      "british": "assembly",
+      "american": "convocation",
+      "category": "school",
+      "generated_at": "2026-09-25T13:07:09.387140"
     }
   ],
-  "last_updated": "2026-09-24T23:02:05.664804"
+  "last_updated": "2026-09-25T13:07:09.387142"
 }
