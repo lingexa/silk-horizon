@@ -2525,7 +2525,25 @@
       "american": "convocation",
       "category": "school",
       "generated_at": "2026-09-25T13:07:09.387140"
+    },
+    {
+      "british": "staircase",
+      "american": "stairway",
+      "category": "housing",
+      "generated_at": "2026-09-25T23:07:48.856983"
+    },
+    {
+      "british": "tissue",
+      "american": "Kleenex",
+      "category": "shopping",
+      "generated_at": "2026-09-25T23:07:48.856993"
+    },
+    {
+      "british": "opaedic",
+      "american": "orthopedic",
+      "category": "health",
+      "generated_at": "2026-09-25T23:07:48.856994"
     }
   ],
-  "last_updated": "2026-09-25T13:07:09.387142"
+  "last_updated": "2026-09-25T23:07:48.856996"
 }
