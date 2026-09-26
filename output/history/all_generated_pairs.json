@@ -2561,7 +2561,25 @@
       "american": "trolley",
       "category": "transport",
       "generated_at": "2026-09-26T12:33:58.096006"
+    },
+    {
+      "british": "crumble",
+      "american": "crisp",
+      "category": "food and drink",
+      "generated_at": "2026-09-26T22:24:58.295018"
+    },
+    {
+      "british": "analogue",
+      "american": "analog",
+      "category": "school",
+      "generated_at": "2026-09-26T22:24:58.295026"
+    },
+    {
+      "british": "gimmick",
+      "american": "trick",
+      "category": "school",
+      "generated_at": "2026-09-26T22:24:58.295028"
     }
   ],
-  "last_updated": "2026-09-26T12:33:58.096007"
+  "last_updated": "2026-09-26T22:24:58.295030"
 }
