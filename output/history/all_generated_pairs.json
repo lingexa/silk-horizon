@@ -2543,7 +2543,25 @@
       "american": "orthopedic",
       "category": "health",
       "generated_at": "2026-09-25T23:07:48.856994"
+    },
+    {
+      "british": "nip",
+      "american": "shot",
+      "category": "food and drink",
+      "generated_at": "2026-09-26T12:33:58.095995"
+    },
+    {
+      "british": "candied",
+      "american": "glazed",
+      "category": "food and drink",
+      "generated_at": "2026-09-26T12:33:58.096005"
+    },
+    {
+      "british": "trolleybus",
+      "american": "trolley",
+      "category": "transport",
+      "generated_at": "2026-09-26T12:33:58.096006"
     }
   ],
-  "last_updated": "2026-09-25T23:07:48.856996"
+  "last_updated": "2026-09-26T12:33:58.096007"
 }
