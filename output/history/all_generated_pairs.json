@@ -2615,7 +2615,25 @@
       "american": "formica",
       "category": "workplace",
       "generated_at": "2026-09-27T22:51:17.592590"
+    },
+    {
+      "british": "apron",
+      "american": "smock",
+      "category": "clothing",
+      "generated_at": "2026-09-28T16:14:34.853392"
+    },
+    {
+      "british": "barrister",
+      "american": "lawyer",
+      "category": "workplace",
+      "generated_at": "2026-09-28T16:14:34.853405"
+    },
+    {
+      "british": "full-time",
+      "american": "all-day",
+      "category": "school",
+      "generated_at": "2026-09-28T16:14:34.853406"
     }
   ],
-  "last_updated": "2026-09-27T22:51:17.592592"
+  "last_updated": "2026-09-28T16:14:34.853407"
 }
