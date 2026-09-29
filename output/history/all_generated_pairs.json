@@ -2669,7 +2669,25 @@
       "american": "team",
       "category": "sports",
       "generated_at": "2026-09-29T14:28:06.335433"
+    },
+    {
+      "british": "guesthouse",
+      "american": "motel",
+      "category": "housing",
+      "generated_at": "2026-09-29T23:28:28.120299"
+    },
+    {
+      "british": "handwriting",
+      "american": "penmanship",
+      "category": "school",
+      "generated_at": "2026-09-29T23:28:28.120310"
+    },
+    {
+      "british": "gong",
+      "american": "bell",
+      "category": "school",
+      "generated_at": "2026-09-29T23:28:28.120311"
     }
   ],
-  "last_updated": "2026-09-29T14:28:06.335435"
+  "last_updated": "2026-09-29T23:28:28.120313"
 }
