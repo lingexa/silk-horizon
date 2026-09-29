@@ -2651,7 +2651,25 @@
       "american": "peak",
       "category": "school",
       "generated_at": "2026-09-29T00:13:43.419209"
+    },
+    {
+      "british": "pud",
+      "american": "cake",
+      "category": "food and drink",
+      "generated_at": "2026-09-29T14:28:06.335421"
+    },
+    {
+      "british": "fittings",
+      "american": "fixtures",
+      "category": "housing",
+      "generated_at": "2026-09-29T14:28:06.335431"
+    },
+    {
+      "british": "club",
+      "american": "team",
+      "category": "sports",
+      "generated_at": "2026-09-29T14:28:06.335433"
     }
   ],
-  "last_updated": "2026-09-29T00:13:43.419210"
+  "last_updated": "2026-09-29T14:28:06.335435"
 }
