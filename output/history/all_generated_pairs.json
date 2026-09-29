@@ -2633,7 +2633,25 @@
       "american": "all-day",
       "category": "school",
       "generated_at": "2026-09-28T16:14:34.853406"
+    },
+    {
+      "british": "dynamo",
+      "american": "alternator",
+      "category": "transport",
+      "generated_at": "2026-09-29T00:13:43.419197"
+    },
+    {
+      "british": "dummy",
+      "american": "pacifier",
+      "category": "workplace",
+      "generated_at": "2026-09-29T00:13:43.419207"
+    },
+    {
+      "british": "summit",
+      "american": "peak",
+      "category": "school",
+      "generated_at": "2026-09-29T00:13:43.419209"
     }
   ],
-  "last_updated": "2026-09-28T16:14:34.853407"
+  "last_updated": "2026-09-29T00:13:43.419210"
 }
