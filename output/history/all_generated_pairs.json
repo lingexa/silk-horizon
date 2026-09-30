@@ -2687,7 +2687,25 @@
       "american": "bell",
       "category": "school",
       "generated_at": "2026-09-29T23:28:28.120311"
+    },
+    {
+      "british": "hovel",
+      "american": "shack",
+      "category": "housing",
+      "generated_at": "2026-09-30T14:30:26.027038"
+    },
+    {
+      "british": "hallway",
+      "american": "hall",
+      "category": "housing",
+      "generated_at": "2026-09-30T14:30:26.027047"
+    },
+    {
+      "british": "awning",
+      "american": "canopy",
+      "category": "housing",
+      "generated_at": "2026-09-30T14:30:26.027048"
     }
   ],
-  "last_updated": "2026-09-29T23:28:28.120313"
+  "last_updated": "2026-09-30T14:30:26.027050"
 }
