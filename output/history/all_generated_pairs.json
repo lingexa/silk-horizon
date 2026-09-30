@@ -2705,7 +2705,25 @@
       "american": "canopy",
       "category": "housing",
       "generated_at": "2026-09-30T14:30:26.027048"
+    },
+    {
+      "british": "annexe",
+      "american": "addition",
+      "category": "housing",
+      "generated_at": "2026-09-30T23:31:37.609202"
+    },
+    {
+      "british": "grout",
+      "american": "mortar",
+      "category": "housing",
+      "generated_at": "2026-09-30T23:31:37.609211"
+    },
+    {
+      "british": "spanner",
+      "american": "wrench",
+      "category": "shopping",
+      "generated_at": "2026-09-30T23:31:37.609213"
     }
   ],
-  "last_updated": "2026-09-30T14:30:26.027050"
+  "last_updated": "2026-09-30T23:31:37.609215"
 }
