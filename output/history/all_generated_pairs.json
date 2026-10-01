@@ -2723,7 +2723,25 @@
       "american": "wrench",
       "category": "shopping",
       "generated_at": "2026-09-30T23:31:37.609213"
+    },
+    {
+      "british": "socket",
+      "american": "outlet",
+      "category": "housing",
+      "generated_at": "2026-10-01T14:56:45.134777"
+    },
+    {
+      "british": "anaesthesia",
+      "american": "anesthesia",
+      "category": "health",
+      "generated_at": "2026-10-01T14:56:45.134789"
+    },
+    {
+      "british": "bowel",
+      "american": "intestine",
+      "category": "health",
+      "generated_at": "2026-10-01T14:56:45.134790"
     }
   ],
-  "last_updated": "2026-09-30T23:31:37.609215"
+  "last_updated": "2026-10-01T14:56:45.134793"
 }
