@@ -2759,7 +2759,25 @@
       "american": "crew",
       "category": "sports",
       "generated_at": "2026-10-01T23:45:54.185574"
+    },
+    {
+      "british": "grill",
+      "american": "broil",
+      "category": "food and drink",
+      "generated_at": "2026-10-02T14:18:47.286648"
+    },
+    {
+      "british": "midfielder",
+      "american": "linebacker",
+      "category": "sports",
+      "generated_at": "2026-10-02T14:18:47.286657"
+    },
+    {
+      "british": "fullback",
+      "american": "cornerback",
+      "category": "sports",
+      "generated_at": "2026-10-02T14:18:47.286659"
     }
   ],
-  "last_updated": "2026-10-01T23:45:54.185575"
+  "last_updated": "2026-10-02T14:18:47.286661"
 }
