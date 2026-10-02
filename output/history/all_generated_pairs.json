@@ -2777,7 +2777,25 @@
       "american": "cornerback",
       "category": "sports",
       "generated_at": "2026-10-02T14:18:47.286659"
+    },
+    {
+      "british": "mains",
+      "american": "utility",
+      "category": "housing",
+      "generated_at": "2026-10-02T23:35:36.980691"
+    },
+    {
+      "british": "carton",
+      "american": "box",
+      "category": "school",
+      "generated_at": "2026-10-02T23:35:36.980700"
+    },
+    {
+      "british": "aluminium",
+      "american": "aluminum",
+      "category": "shopping",
+      "generated_at": "2026-10-02T23:35:36.980701"
     }
   ],
-  "last_updated": "2026-10-02T14:18:47.286661"
+  "last_updated": "2026-10-02T23:35:36.980703"
 }
