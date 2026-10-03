@@ -2795,7 +2795,25 @@
       "american": "aluminum",
       "category": "shopping",
       "generated_at": "2026-10-02T23:35:36.980701"
+    },
+    {
+      "british": "tingles",
+      "american": "bunion",
+      "category": "food and drink",
+      "generated_at": "2026-10-03T12:53:36.514003"
+    },
+    {
+      "british": "gardigan",
+      "american": "cardigan",
+      "category": "clothing",
+      "generated_at": "2026-10-03T12:53:36.514013"
+    },
+    {
+      "british": "foul",
+      "american": "penalty",
+      "category": "sports",
+      "generated_at": "2026-10-03T12:53:36.514015"
     }
   ],
-  "last_updated": "2026-10-02T23:35:36.980703"
+  "last_updated": "2026-10-03T12:53:36.514016"
 }
