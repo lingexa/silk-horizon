@@ -2813,7 +2813,25 @@
       "american": "penalty",
       "category": "sports",
       "generated_at": "2026-10-03T12:53:36.514015"
+    },
+    {
+      "british": "college",
+      "american": "university",
+      "category": "school",
+      "generated_at": "2026-10-03T22:44:08.783718"
+    },
+    {
+      "british": "class",
+      "american": "course",
+      "category": "school",
+      "generated_at": "2026-10-03T22:44:08.783729"
+    },
+    {
+      "british": "boardings",
+      "american": "dormitory",
+      "category": "school",
+      "generated_at": "2026-10-03T22:44:08.783730"
     }
   ],
-  "last_updated": "2026-10-03T12:53:36.514016"
+  "last_updated": "2026-10-03T22:44:08.783731"
 }
