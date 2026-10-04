@@ -2831,7 +2831,25 @@
       "american": "dormitory",
       "category": "school",
       "generated_at": "2026-10-03T22:44:08.783730"
+    },
+    {
+      "british": "judo",
+      "american": "wrestling",
+      "category": "sports",
+      "generated_at": "2026-10-04T13:34:48.747110"
+    },
+    {
+      "british": "skiing",
+      "american": "snowboarding",
+      "category": "sports",
+      "generated_at": "2026-10-04T13:34:48.747119"
+    },
+    {
+      "british": "motocross",
+      "american": "supercross",
+      "category": "sports",
+      "generated_at": "2026-10-04T13:34:48.747121"
     }
   ],
-  "last_updated": "2026-10-03T22:44:08.783731"
+  "last_updated": "2026-10-04T13:34:48.747123"
 }
