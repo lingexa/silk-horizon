@@ -2867,7 +2867,25 @@
       "american": "sausage",
       "category": "food and drink",
       "generated_at": "2026-10-04T22:46:32.727852"
+    },
+    {
+      "british": "bill",
+      "american": "check",
+      "category": "workplace",
+      "generated_at": "2026-10-05T16:36:31.652990"
+    },
+    {
+      "british": "bill",
+      "american": "check",
+      "category": "sports",
+      "generated_at": "2026-10-05T16:36:31.653001"
+    },
+    {
+      "british": "classroom",
+      "american": "room",
+      "category": "school",
+      "generated_at": "2026-10-05T16:36:31.653002"
     }
   ],
-  "last_updated": "2026-10-04T22:46:32.727854"
+  "last_updated": "2026-10-05T16:36:31.653003"
 }
