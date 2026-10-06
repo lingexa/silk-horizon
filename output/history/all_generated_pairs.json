@@ -2921,7 +2921,25 @@
       "american": "anesthetic",
       "category": "health",
       "generated_at": "2026-10-06T14:36:32.619697"
+    },
+    {
+      "british": "plumbing",
+      "american": "pipes",
+      "category": "housing",
+      "generated_at": "2026-10-06T23:36:24.891007"
+    },
+    {
+      "british": "plumbing",
+      "american": "pipes",
+      "category": "health",
+      "generated_at": "2026-10-06T23:36:24.891016"
+    },
+    {
+      "british": "circuitry",
+      "american": "electronics",
+      "category": "technology",
+      "generated_at": "2026-10-06T23:36:24.891018"
     }
   ],
-  "last_updated": "2026-10-06T14:36:32.619698"
+  "last_updated": "2026-10-06T23:36:24.891019"
 }
