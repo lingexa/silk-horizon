@@ -2903,7 +2903,25 @@
       "american": "cerumen",
       "category": "health",
       "generated_at": "2026-10-06T01:09:33.856607"
+    },
+    {
+      "british": "brew",
+      "american": "beer",
+      "category": "food and drink",
+      "generated_at": "2026-10-06T14:36:32.619684"
+    },
+    {
+      "british": "handbag",
+      "american": "purse",
+      "category": "shopping",
+      "generated_at": "2026-10-06T14:36:32.619695"
+    },
+    {
+      "british": "anaesthetic",
+      "american": "anesthetic",
+      "category": "health",
+      "generated_at": "2026-10-06T14:36:32.619697"
     }
   ],
-  "last_updated": "2026-10-06T01:09:33.856609"
+  "last_updated": "2026-10-06T14:36:32.619698"
 }
