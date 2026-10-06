@@ -2885,7 +2885,25 @@
       "american": "room",
       "category": "school",
       "generated_at": "2026-10-05T16:36:31.653002"
+    },
+    {
+      "british": "chiro",
+      "american": "chiropractor",
+      "category": "health",
+      "generated_at": "2026-10-06T01:09:33.856597"
+    },
+    {
+      "british": "reflux",
+      "american": "heartburn",
+      "category": "health",
+      "generated_at": "2026-10-06T01:09:33.856606"
+    },
+    {
+      "british": "earwax",
+      "american": "cerumen",
+      "category": "health",
+      "generated_at": "2026-10-06T01:09:33.856607"
     }
   ],
-  "last_updated": "2026-10-05T16:36:31.653003"
+  "last_updated": "2026-10-06T01:09:33.856609"
 }
