@@ -2939,7 +2939,25 @@
       "american": "electronics",
       "category": "technology",
       "generated_at": "2026-10-06T23:36:24.891018"
+    },
+    {
+      "british": "blackcurrants",
+      "american": "cassis",
+      "category": "food and drink",
+      "generated_at": "2026-10-07T14:54:17.496159"
+    },
+    {
+      "british": "chemist's",
+      "american": "pharmacy",
+      "category": "workplace",
+      "generated_at": "2026-10-07T14:54:17.496170"
+    },
+    {
+      "british": "kit",
+      "american": "uniform",
+      "category": "sports",
+      "generated_at": "2026-10-07T14:54:17.496171"
     }
   ],
-  "last_updated": "2026-10-06T23:36:24.891019"
+  "last_updated": "2026-10-07T14:54:17.496173"
 }
