@@ -2975,7 +2975,25 @@
       "american": "gurney",
       "category": "health",
       "generated_at": "2026-10-08T00:02:31.132178"
+    },
+    {
+      "british": "under-bra",
+      "american": "bra",
+      "category": "clothing",
+      "generated_at": "2026-10-08T16:40:20.639515"
+    },
+    {
+      "british": "under-bra",
+      "american": "bra",
+      "category": "housing",
+      "generated_at": "2026-10-08T16:40:20.639526"
+    },
+    {
+      "british": "aubergines",
+      "american": "eggplants",
+      "category": "shopping",
+      "generated_at": "2026-10-08T16:40:20.639527"
     }
   ],
-  "last_updated": "2026-10-08T00:02:31.132179"
+  "last_updated": "2026-10-08T16:40:20.639528"
 }
