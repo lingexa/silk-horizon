@@ -2957,7 +2957,25 @@
       "american": "uniform",
       "category": "sports",
       "generated_at": "2026-10-07T14:54:17.496171"
+    },
+    {
+      "british": "chaser",
+      "american": "steeplechase",
+      "category": "sports",
+      "generated_at": "2026-10-08T00:02:31.132164"
+    },
+    {
+      "british": "pundit",
+      "american": "analyst",
+      "category": "sports",
+      "generated_at": "2026-10-08T00:02:31.132177"
+    },
+    {
+      "british": "stretcher",
+      "american": "gurney",
+      "category": "health",
+      "generated_at": "2026-10-08T00:02:31.132178"
     }
   ],
-  "last_updated": "2026-10-07T14:54:17.496173"
+  "last_updated": "2026-10-08T00:02:31.132179"
 }
