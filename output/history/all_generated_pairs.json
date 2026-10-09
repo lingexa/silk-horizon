@@ -3011,7 +3011,25 @@
       "american": "pipefitter",
       "category": "health",
       "generated_at": "2026-10-09T00:10:43.385217"
+    },
+    {
+      "british": "dressing",
+      "american": "slippers",
+      "category": "clothing",
+      "generated_at": "2026-10-09T14:48:11.952789"
+    },
+    {
+      "british": "drain",
+      "american": "sewer",
+      "category": "housing",
+      "generated_at": "2026-10-09T14:48:11.952798"
+    },
+    {
+      "british": "bowels",
+      "american": "intestines",
+      "category": "health",
+      "generated_at": "2026-10-09T14:48:11.952799"
     }
   ],
-  "last_updated": "2026-10-09T00:10:43.385218"
+  "last_updated": "2026-10-09T14:48:11.952801"
 }
