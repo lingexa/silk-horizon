@@ -3029,7 +3029,25 @@
       "american": "intestines",
       "category": "health",
       "generated_at": "2026-10-09T14:48:11.952799"
+    },
+    {
+      "british": "bin",
+      "american": "trashcan",
+      "category": "housing",
+      "generated_at": "2026-10-09T23:51:07.316263"
+    },
+    {
+      "british": "bin",
+      "american": "trashcan",
+      "category": "health",
+      "generated_at": "2026-10-09T23:51:07.316272"
+    },
+    {
+      "british": "screen",
+      "american": "display",
+      "category": "technology",
+      "generated_at": "2026-10-09T23:51:07.316274"
     }
   ],
-  "last_updated": "2026-10-09T14:48:11.952801"
+  "last_updated": "2026-10-09T23:51:07.316275"
 }
