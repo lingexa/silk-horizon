@@ -2993,7 +2993,25 @@
       "american": "eggplants",
       "category": "shopping",
       "generated_at": "2026-10-08T16:40:20.639527"
+    },
+    {
+      "british": "bunched",
+      "american": "puffed",
+      "category": "clothing",
+      "generated_at": "2026-10-09T00:10:43.385206"
+    },
+    {
+      "british": "heartburn",
+      "american": "reflux",
+      "category": "health",
+      "generated_at": "2026-10-09T00:10:43.385216"
+    },
+    {
+      "british": "plumber",
+      "american": "pipefitter",
+      "category": "health",
+      "generated_at": "2026-10-09T00:10:43.385217"
     }
   ],
-  "last_updated": "2026-10-08T16:40:20.639528"
+  "last_updated": "2026-10-09T00:10:43.385218"
 }
