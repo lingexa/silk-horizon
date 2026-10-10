@@ -3065,7 +3065,25 @@
       "american": "engineer",
       "category": "workplace",
       "generated_at": "2026-10-10T14:05:38.456934"
+    },
+    {
+      "british": "skate",
+      "american": "ray",
+      "category": "food and drink",
+      "generated_at": "2026-10-10T23:16:24.384151"
+    },
+    {
+      "british": "semi",
+      "american": "semidetached",
+      "category": "housing",
+      "generated_at": "2026-10-10T23:16:24.384161"
+    },
+    {
+      "british": "stairwell",
+      "american": "staircase",
+      "category": "housing",
+      "generated_at": "2026-10-10T23:16:24.384162"
     }
   ],
-  "last_updated": "2026-10-10T14:05:38.456935"
+  "last_updated": "2026-10-10T23:16:24.384164"
 }
