@@ -3047,7 +3047,25 @@
       "american": "display",
       "category": "technology",
       "generated_at": "2026-10-09T23:51:07.316274"
+    },
+    {
+      "british": "boil",
+      "american": "simmer",
+      "category": "food and drink",
+      "generated_at": "2026-10-10T14:05:38.456923"
+    },
+    {
+      "british": "chalet",
+      "american": "cottage",
+      "category": "housing",
+      "generated_at": "2026-10-10T14:05:38.456932"
+    },
+    {
+      "british": "enginneer",
+      "american": "engineer",
+      "category": "workplace",
+      "generated_at": "2026-10-10T14:05:38.456934"
     }
   ],
-  "last_updated": "2026-10-09T23:51:07.316275"
+  "last_updated": "2026-10-10T14:05:38.456935"
 }
