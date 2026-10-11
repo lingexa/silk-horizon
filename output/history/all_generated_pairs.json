@@ -3101,7 +3101,25 @@
       "american": "sportcoat",
       "category": "clothing",
       "generated_at": "2026-10-11T14:29:48.745200"
+    },
+    {
+      "british": "breeks",
+      "american": "knickers",
+      "category": "clothing",
+      "generated_at": "2026-10-11T23:29:05.655613"
+    },
+    {
+      "british": "pantry",
+      "american": "larder",
+      "category": "housing",
+      "generated_at": "2026-10-11T23:29:05.655623"
+    },
+    {
+      "british": "half-time",
+      "american": "halftime",
+      "category": "sports",
+      "generated_at": "2026-10-11T23:29:05.655624"
     }
   ],
-  "last_updated": "2026-10-11T14:29:48.745202"
+  "last_updated": "2026-10-11T23:29:05.655626"
 }
