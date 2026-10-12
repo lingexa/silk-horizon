@@ -3119,7 +3119,25 @@
       "american": "halftime",
       "category": "sports",
       "generated_at": "2026-10-11T23:29:05.655624"
+    },
+    {
+      "british": "sultanas",
+      "american": "raisins",
+      "category": "food and drink",
+      "generated_at": "2026-10-12T17:07:47.377272"
+    },
+    {
+      "british": "batter",
+      "american": "dough",
+      "category": "food and drink",
+      "generated_at": "2026-10-12T17:07:47.377283"
+    },
+    {
+      "british": "overtake",
+      "american": "pass",
+      "category": "transport",
+      "generated_at": "2026-10-12T17:07:47.377285"
     }
   ],
-  "last_updated": "2026-10-11T23:29:05.655626"
+  "last_updated": "2026-10-12T17:07:47.377287"
 }
