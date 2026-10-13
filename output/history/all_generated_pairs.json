@@ -3137,7 +3137,25 @@
       "american": "pass",
       "category": "transport",
       "generated_at": "2026-10-12T17:07:47.377285"
+    },
+    {
+      "british": "muffin",
+      "american": "cupcake",
+      "category": "food and drink",
+      "generated_at": "2026-10-13T01:51:09.821727"
+    },
+    {
+      "british": "sultana",
+      "american": "raisin",
+      "category": "food and drink",
+      "generated_at": "2026-10-13T01:51:09.821736"
+    },
+    {
+      "british": "theatre",
+      "american": "theater",
+      "category": "school",
+      "generated_at": "2026-10-13T01:51:09.821738"
     }
   ],
-  "last_updated": "2026-10-12T17:07:47.377287"
+  "last_updated": "2026-10-13T01:51:09.821740"
 }
