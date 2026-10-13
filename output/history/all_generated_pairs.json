@@ -3155,7 +3155,25 @@
       "american": "theater",
       "category": "school",
       "generated_at": "2026-10-13T01:51:09.821738"
+    },
+    {
+      "british": "rock",
+      "american": "sweet",
+      "category": "food and drink",
+      "generated_at": "2026-10-13T15:25:06.486711"
+    },
+    {
+      "british": "laboratory",
+      "american": "lab",
+      "category": "school",
+      "generated_at": "2026-10-13T15:25:06.486721"
+    },
+    {
+      "british": "reception",
+      "american": "kindergarten",
+      "category": "school",
+      "generated_at": "2026-10-13T15:25:06.486722"
     }
   ],
-  "last_updated": "2026-10-13T01:51:09.821740"
+  "last_updated": "2026-10-13T15:25:06.486724"
 }
