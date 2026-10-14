@@ -3191,7 +3191,25 @@
       "american": "raspberry",
       "category": "clothing",
       "generated_at": "2026-10-13T23:37:27.554095"
+    },
+    {
+      "british": "sportswear",
+      "american": "activewear",
+      "category": "clothing",
+      "generated_at": "2026-10-14T13:32:08.843282"
+    },
+    {
+      "british": "foyer",
+      "american": "lobby",
+      "category": "school",
+      "generated_at": "2026-10-14T13:32:08.843291"
+    },
+    {
+      "british": "biro",
+      "american": "pen",
+      "category": "school",
+      "generated_at": "2026-10-14T13:32:08.843293"
     }
   ],
-  "last_updated": "2026-10-13T23:37:27.554096"
+  "last_updated": "2026-10-14T13:32:08.843294"
 }
