@@ -3209,7 +3209,25 @@
       "american": "pen",
       "category": "school",
       "generated_at": "2026-10-14T13:32:08.843293"
+    },
+    {
+      "british": "raspberry",
+      "american": "blackberry",
+      "category": "food and drink",
+      "generated_at": "2026-10-14T23:00:25.729252"
+    },
+    {
+      "british": "beret",
+      "american": "tam",
+      "category": "clothing",
+      "generated_at": "2026-10-14T23:00:25.729262"
+    },
+    {
+      "british": "reading",
+      "american": "phonics",
+      "category": "school",
+      "generated_at": "2026-10-14T23:00:25.729263"
     }
   ],
-  "last_updated": "2026-10-14T13:32:08.843294"
+  "last_updated": "2026-10-14T23:00:25.729265"
 }
