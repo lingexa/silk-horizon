@@ -3245,7 +3245,25 @@
       "american": "thanks",
       "category": "health",
       "generated_at": "2026-10-15T12:58:17.893727"
+    },
+    {
+      "british": "honour",
+      "american": "honor",
+      "category": "school",
+      "generated_at": "2026-10-15T22:55:16.413205"
+    },
+    {
+      "british": "litre",
+      "american": "liter",
+      "category": "school",
+      "generated_at": "2026-10-15T22:55:16.413213"
+    },
+    {
+      "british": "analyse",
+      "american": "analyze",
+      "category": "school",
+      "generated_at": "2026-10-15T22:55:16.413215"
     }
   ],
-  "last_updated": "2026-10-15T12:58:17.893729"
+  "last_updated": "2026-10-15T22:55:16.413216"
 }
