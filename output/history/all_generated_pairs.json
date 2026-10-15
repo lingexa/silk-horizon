@@ -3227,7 +3227,25 @@
       "american": "phonics",
       "category": "school",
       "generated_at": "2026-10-14T23:00:25.729263"
+    },
+    {
+      "british": "line",
+      "american": "queue",
+      "category": "food and drink",
+      "generated_at": "2026-10-15T12:58:17.893716"
+    },
+    {
+      "british": "cheers",
+      "american": "thanks",
+      "category": "sports",
+      "generated_at": "2026-10-15T12:58:17.893726"
+    },
+    {
+      "british": "cheers",
+      "american": "thanks",
+      "category": "health",
+      "generated_at": "2026-10-15T12:58:17.893727"
     }
   ],
-  "last_updated": "2026-10-14T23:00:25.729265"
+  "last_updated": "2026-10-15T12:58:17.893729"
 }
