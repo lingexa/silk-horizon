@@ -3263,7 +3263,25 @@
       "american": "analyze",
       "category": "school",
       "generated_at": "2026-10-15T22:55:16.413215"
+    },
+    {
+      "british": "goalmouth",
+      "american": "goalbox",
+      "category": "sports",
+      "generated_at": "2026-10-16T12:50:52.192466"
+    },
+    {
+      "british": "bunkers",
+      "american": "hazards",
+      "category": "sports",
+      "generated_at": "2026-10-16T12:50:52.192475"
+    },
+    {
+      "british": "knockout",
+      "american": "KO",
+      "category": "sports",
+      "generated_at": "2026-10-16T12:50:52.192476"
     }
   ],
-  "last_updated": "2026-10-15T22:55:16.413216"
+  "last_updated": "2026-10-16T12:50:52.192478"
 }
