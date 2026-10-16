@@ -3281,7 +3281,25 @@
       "american": "KO",
       "category": "sports",
       "generated_at": "2026-10-16T12:50:52.192476"
+    },
+    {
+      "british": "goalie",
+      "american": "goaltender",
+      "category": "sports",
+      "generated_at": "2026-10-16T22:34:52.309238"
+    },
+    {
+      "british": "striker",
+      "american": "forward",
+      "category": "sports",
+      "generated_at": "2026-10-16T22:34:52.309249"
+    },
+    {
+      "british": "sportsman",
+      "american": "athlete",
+      "category": "sports",
+      "generated_at": "2026-10-16T22:34:52.309251"
     }
   ],
-  "last_updated": "2026-10-16T12:50:52.192478"
+  "last_updated": "2026-10-16T22:34:52.309253"
 }
