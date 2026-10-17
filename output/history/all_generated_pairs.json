@@ -3299,7 +3299,25 @@
       "american": "athlete",
       "category": "sports",
       "generated_at": "2026-10-16T22:34:52.309251"
+    },
+    {
+      "british": "receipt",
+      "american": "stub",
+      "category": "shopping",
+      "generated_at": "2026-10-17T11:50:56.230956"
+    },
+    {
+      "british": "skateboarding",
+      "american": "skating",
+      "category": "sports",
+      "generated_at": "2026-10-17T11:50:56.230964"
+    },
+    {
+      "british": "bobsleigh",
+      "american": "bobsled",
+      "category": "sports",
+      "generated_at": "2026-10-17T11:50:56.230966"
     }
   ],
-  "last_updated": "2026-10-16T22:34:52.309253"
+  "last_updated": "2026-10-17T11:50:56.230967"
 }
