@@ -3317,7 +3317,25 @@
       "american": "bobsled",
       "category": "sports",
       "generated_at": "2026-10-17T11:50:56.230966"
+    },
+    {
+      "british": "swimming",
+      "american": "diving",
+      "category": "sports",
+      "generated_at": "2026-10-17T22:00:13.157303"
+    },
+    {
+      "british": "fencing",
+      "american": "dueling",
+      "category": "sports",
+      "generated_at": "2026-10-17T22:00:13.157312"
+    },
+    {
+      "british": "wrestling",
+      "american": "grappling",
+      "category": "sports",
+      "generated_at": "2026-10-17T22:00:13.157314"
     }
   ],
-  "last_updated": "2026-10-17T11:50:56.230967"
+  "last_updated": "2026-10-17T22:00:13.157315"
 }
