@@ -3353,7 +3353,25 @@
       "american": "stud",
       "category": "sports",
       "generated_at": "2026-10-18T12:16:46.087298"
+    },
+    {
+      "british": "catalogue",
+      "american": "catalog",
+      "category": "transport",
+      "generated_at": "2026-10-18T22:14:48.115740"
+    },
+    {
+      "british": "draughts",
+      "american": "drafts",
+      "category": "housing",
+      "generated_at": "2026-10-18T22:14:48.115751"
+    },
+    {
+      "british": "underlay",
+      "american": "padding",
+      "category": "housing",
+      "generated_at": "2026-10-18T22:14:48.115752"
     }
   ],
-  "last_updated": "2026-10-18T12:16:46.087300"
+  "last_updated": "2026-10-18T22:14:48.115754"
 }
