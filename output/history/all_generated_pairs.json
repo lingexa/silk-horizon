@@ -3335,7 +3335,25 @@
       "american": "grappling",
       "category": "sports",
       "generated_at": "2026-10-17T22:00:13.157314"
+    },
+    {
+      "british": "juggernaut",
+      "american": "semi-trailer",
+      "category": "transport",
+      "generated_at": "2026-10-18T12:16:46.087285"
+    },
+    {
+      "british": "gospel",
+      "american": "choir",
+      "category": "school",
+      "generated_at": "2026-10-18T12:16:46.087297"
+    },
+    {
+      "british": "cleat",
+      "american": "stud",
+      "category": "sports",
+      "generated_at": "2026-10-18T12:16:46.087298"
     }
   ],
-  "last_updated": "2026-10-17T22:00:13.157315"
+  "last_updated": "2026-10-18T12:16:46.087300"
 }
