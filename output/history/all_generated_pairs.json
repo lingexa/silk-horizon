@@ -3371,7 +3371,25 @@
       "american": "padding",
       "category": "housing",
       "generated_at": "2026-10-18T22:14:48.115752"
+    },
+    {
+      "british": "anaesthetist",
+      "american": "anesthesiologist",
+      "category": "health",
+      "generated_at": "2026-10-19T15:08:03.862048"
+    },
+    {
+      "british": "backbone",
+      "american": "spine",
+      "category": "health",
+      "generated_at": "2026-10-19T15:08:03.862060"
+    },
+    {
+      "british": "abdomen",
+      "american": "belly",
+      "category": "health",
+      "generated_at": "2026-10-19T15:08:03.862062"
     }
   ],
-  "last_updated": "2026-10-18T22:14:48.115754"
+  "last_updated": "2026-10-19T15:08:03.862064"
 }
