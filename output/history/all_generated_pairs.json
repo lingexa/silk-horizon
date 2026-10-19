@@ -3389,7 +3389,25 @@
       "american": "belly",
       "category": "health",
       "generated_at": "2026-10-19T15:08:03.862062"
+    },
+    {
+      "british": "sofa",
+      "american": "couch",
+      "category": "housing",
+      "generated_at": "2026-10-19T23:20:30.686288"
+    },
+    {
+      "british": "gutter",
+      "american": "eavestrough",
+      "category": "housing",
+      "generated_at": "2026-10-19T23:20:30.686298"
+    },
+    {
+      "british": "shutter",
+      "american": "blind",
+      "category": "housing",
+      "generated_at": "2026-10-19T23:20:30.686300"
     }
   ],
-  "last_updated": "2026-10-19T15:08:03.862064"
+  "last_updated": "2026-10-19T23:20:30.686302"
 }
