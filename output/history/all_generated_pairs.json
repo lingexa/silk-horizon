@@ -3425,7 +3425,25 @@
       "american": "gray",
       "category": "transport",
       "generated_at": "2026-10-20T13:08:25.659868"
+    },
+    {
+      "british": "groundsel",
+      "american": "grits",
+      "category": "food and drink",
+      "generated_at": "2026-10-20T22:57:44.686144"
+    },
+    {
+      "british": "clobber",
+      "american": "gear",
+      "category": "workplace",
+      "generated_at": "2026-10-20T22:57:44.686155"
+    },
+    {
+      "british": "crib",
+      "american": "cot",
+      "category": "workplace",
+      "generated_at": "2026-10-20T22:57:44.686156"
     }
   ],
-  "last_updated": "2026-10-20T13:08:25.659869"
+  "last_updated": "2026-10-20T22:57:44.686158"
 }
