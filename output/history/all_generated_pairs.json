@@ -3407,7 +3407,25 @@
       "american": "blind",
       "category": "housing",
       "generated_at": "2026-10-19T23:20:30.686300"
+    },
+    {
+      "british": "butty",
+      "american": "sandwich",
+      "category": "food and drink",
+      "generated_at": "2026-10-20T13:08:25.659856"
+    },
+    {
+      "british": "defence",
+      "american": "defense",
+      "category": "transport",
+      "generated_at": "2026-10-20T13:08:25.659867"
+    },
+    {
+      "british": "grey",
+      "american": "gray",
+      "category": "transport",
+      "generated_at": "2026-10-20T13:08:25.659868"
     }
   ],
-  "last_updated": "2026-10-19T23:20:30.686302"
+  "last_updated": "2026-10-20T13:08:25.659869"
 }
