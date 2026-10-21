@@ -3461,7 +3461,25 @@
       "american": "boot",
       "category": "sports",
       "generated_at": "2026-10-21T13:19:59.666456"
+    },
+    {
+      "british": "duck",
+      "american": "poultry",
+      "category": "food and drink",
+      "generated_at": "2026-10-21T23:03:37.242230"
+    },
+    {
+      "british": "gear",
+      "american": "speed",
+      "category": "transport",
+      "generated_at": "2026-10-21T23:03:37.242239"
+    },
+    {
+      "british": "chills",
+      "american": "shivers",
+      "category": "health",
+      "generated_at": "2026-10-21T23:03:37.242240"
     }
   ],
-  "last_updated": "2026-10-21T13:19:59.666457"
+  "last_updated": "2026-10-21T23:03:37.242242"
 }
