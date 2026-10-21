@@ -3443,7 +3443,25 @@
       "american": "cot",
       "category": "workplace",
       "generated_at": "2026-10-20T22:57:44.686156"
+    },
+    {
+      "british": "golosh",
+      "american": "boot",
+      "category": "clothing",
+      "generated_at": "2026-10-21T13:19:59.666443"
+    },
+    {
+      "british": "letting",
+      "american": "rental",
+      "category": "housing",
+      "generated_at": "2026-10-21T13:19:59.666455"
+    },
+    {
+      "british": "golosh",
+      "american": "boot",
+      "category": "sports",
+      "generated_at": "2026-10-21T13:19:59.666456"
     }
   ],
-  "last_updated": "2026-10-20T22:57:44.686158"
+  "last_updated": "2026-10-21T13:19:59.666457"
 }
