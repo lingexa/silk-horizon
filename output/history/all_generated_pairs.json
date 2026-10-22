@@ -3479,7 +3479,25 @@
       "american": "shivers",
       "category": "health",
       "generated_at": "2026-10-21T23:03:37.242240"
+    },
+    {
+      "british": "disinfectant",
+      "american": "antiseptic",
+      "category": "health",
+      "generated_at": "2026-10-22T13:40:25.218010"
+    },
+    {
+      "british": "mole",
+      "american": "birthmark",
+      "category": "health",
+      "generated_at": "2026-10-22T13:40:25.218019"
+    },
+    {
+      "british": "dislocation",
+      "american": "separation",
+      "category": "health",
+      "generated_at": "2026-10-22T13:40:25.218021"
     }
   ],
-  "last_updated": "2026-10-21T23:03:37.242242"
+  "last_updated": "2026-10-22T13:40:25.218022"
 }
