@@ -3497,7 +3497,25 @@
       "american": "separation",
       "category": "health",
       "generated_at": "2026-10-22T13:40:25.218021"
+    },
+    {
+      "british": "summons",
+      "american": "citation",
+      "category": "transport",
+      "generated_at": "2026-10-22T23:00:01.627784"
+    },
+    {
+      "british": "favourite",
+      "american": "favorite",
+      "category": "school",
+      "generated_at": "2026-10-22T23:00:01.627794"
+    },
+    {
+      "british": "flan",
+      "american": "pie",
+      "category": "food and drink",
+      "generated_at": "2026-10-22T23:00:01.627796"
     }
   ],
-  "last_updated": "2026-10-22T13:40:25.218022"
+  "last_updated": "2026-10-22T23:00:01.627797"
 }
