@@ -3515,7 +3515,25 @@
       "american": "pie",
       "category": "food and drink",
       "generated_at": "2026-10-22T23:00:01.627796"
+    },
+    {
+      "british": "autograph",
+      "american": "signature",
+      "category": "sports",
+      "generated_at": "2026-10-23T12:58:10.675615"
+    },
+    {
+      "british": "referee",
+      "american": "umpire",
+      "category": "sports",
+      "generated_at": "2026-10-23T12:58:10.675624"
+    },
+    {
+      "british": "score",
+      "american": "points",
+      "category": "sports",
+      "generated_at": "2026-10-23T12:58:10.675625"
     }
   ],
-  "last_updated": "2026-10-22T23:00:01.627797"
+  "last_updated": "2026-10-23T12:58:10.675627"
 }
