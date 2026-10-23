@@ -3533,7 +3533,19 @@
       "american": "points",
       "category": "sports",
       "generated_at": "2026-10-23T12:58:10.675625"
+    },
+    {
+      "british": "zipper",
+      "american": "zip",
+      "category": "transport",
+      "generated_at": "2026-10-23T22:57:32.313262"
+    },
+    {
+      "british": "wound",
+      "american": "injury",
+      "category": "health",
+      "generated_at": "2026-10-23T22:57:32.313273"
     }
   ],
-  "last_updated": "2026-10-23T12:58:10.675627"
+  "last_updated": "2026-10-23T22:57:32.313275"
 }
