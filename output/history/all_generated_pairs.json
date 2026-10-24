@@ -3563,7 +3563,25 @@
       "american": "mold",
       "category": "health",
       "generated_at": "2026-10-24T12:21:16.487031"
+    },
+    {
+      "british": "dormer",
+      "american": "gable",
+      "category": "housing",
+      "generated_at": "2026-10-24T22:16:50.019918"
+    },
+    {
+      "british": "doctor",
+      "american": "physician",
+      "category": "health",
+      "generated_at": "2026-10-24T22:16:50.019929"
+    },
+    {
+      "british": "illness",
+      "american": "sickness",
+      "category": "health",
+      "generated_at": "2026-10-24T22:16:50.019931"
     }
   ],
-  "last_updated": "2026-10-24T12:21:16.487032"
+  "last_updated": "2026-10-24T22:16:50.019932"
 }
