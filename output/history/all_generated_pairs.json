@@ -3581,7 +3581,25 @@
       "american": "sickness",
       "category": "health",
       "generated_at": "2026-10-24T22:16:50.019931"
+    },
+    {
+      "british": "wall",
+      "american": "partition",
+      "category": "housing",
+      "generated_at": "2026-10-25T12:52:02.302908"
+    },
+    {
+      "british": "halftime",
+      "american": "half-time",
+      "category": "sports",
+      "generated_at": "2026-10-25T12:52:02.302915"
+    },
+    {
+      "british": "championship",
+      "american": "tournament",
+      "category": "sports",
+      "generated_at": "2026-10-25T12:52:02.302917"
     }
   ],
-  "last_updated": "2026-10-24T22:16:50.019932"
+  "last_updated": "2026-10-25T12:52:02.302919"
 }
