@@ -3635,7 +3635,25 @@
       "american": "hitting",
       "category": "sports",
       "generated_at": "2026-10-26T14:41:04.749911"
+    },
+    {
+      "british": "roadblock",
+      "american": "checkpoint",
+      "category": "transport",
+      "generated_at": "2026-10-26T23:36:31.545423"
+    },
+    {
+      "british": "tackler",
+      "american": "defender",
+      "category": "sports",
+      "generated_at": "2026-10-26T23:36:31.545431"
+    },
+    {
+      "british": "spectator",
+      "american": "fan",
+      "category": "sports",
+      "generated_at": "2026-10-26T23:36:31.545433"
     }
   ],
-  "last_updated": "2026-10-26T14:41:04.749912"
+  "last_updated": "2026-10-26T23:36:31.545435"
 }
