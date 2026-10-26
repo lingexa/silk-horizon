@@ -3617,7 +3617,25 @@
       "american": "butt",
       "category": "food and drink",
       "generated_at": "2026-10-25T22:24:26.189803"
+    },
+    {
+      "british": "graft",
+      "american": "work",
+      "category": "clothing",
+      "generated_at": "2026-10-26T14:41:04.749900"
+    },
+    {
+      "british": "injury",
+      "american": "wound",
+      "category": "sports",
+      "generated_at": "2026-10-26T14:41:04.749910"
+    },
+    {
+      "british": "batting",
+      "american": "hitting",
+      "category": "sports",
+      "generated_at": "2026-10-26T14:41:04.749911"
     }
   ],
-  "last_updated": "2026-10-25T22:24:26.189804"
+  "last_updated": "2026-10-26T14:41:04.749912"
 }
