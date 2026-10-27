@@ -3671,7 +3671,25 @@
       "american": "disinfectant",
       "category": "health",
       "generated_at": "2026-10-27T13:45:17.164805"
+    },
+    {
+      "british": "plums",
+      "american": "prunes",
+      "category": "food and drink",
+      "generated_at": "2026-10-27T23:31:46.358971"
+    },
+    {
+      "british": "clot",
+      "american": "coagulation",
+      "category": "health",
+      "generated_at": "2026-10-27T23:31:46.358981"
+    },
+    {
+      "british": "gland",
+      "american": "adenoid",
+      "category": "health",
+      "generated_at": "2026-10-27T23:31:46.358983"
     }
   ],
-  "last_updated": "2026-10-27T13:45:17.164806"
+  "last_updated": "2026-10-27T23:31:46.358985"
 }
