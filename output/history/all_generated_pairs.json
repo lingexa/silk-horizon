@@ -3653,7 +3653,25 @@
       "american": "fan",
       "category": "sports",
       "generated_at": "2026-10-26T23:36:31.545433"
+    },
+    {
+      "british": "tea",
+      "american": "coffee",
+      "category": "food and drink",
+      "generated_at": "2026-10-27T13:45:17.164793"
+    },
+    {
+      "british": "boater",
+      "american": "hat",
+      "category": "clothing",
+      "generated_at": "2026-10-27T13:45:17.164804"
+    },
+    {
+      "british": "antiseptic",
+      "american": "disinfectant",
+      "category": "health",
+      "generated_at": "2026-10-27T13:45:17.164805"
     }
   ],
-  "last_updated": "2026-10-26T23:36:31.545435"
+  "last_updated": "2026-10-27T13:45:17.164806"
 }
