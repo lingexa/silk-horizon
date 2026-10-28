@@ -3689,7 +3689,25 @@
       "american": "adenoid",
       "category": "health",
       "generated_at": "2026-10-27T23:31:46.358983"
+    },
+    {
+      "british": "jerusalem",
+      "american": "artichoke",
+      "category": "food and drink",
+      "generated_at": "2026-10-28T14:41:57.569347"
+    },
+    {
+      "british": "sweat",
+      "american": "perspiration",
+      "category": "health",
+      "generated_at": "2026-10-28T14:41:57.569359"
+    },
+    {
+      "british": "unwell",
+      "american": "sick",
+      "category": "health",
+      "generated_at": "2026-10-28T14:41:57.569360"
     }
   ],
-  "last_updated": "2026-10-27T23:31:46.358985"
+  "last_updated": "2026-10-28T14:41:57.569362"
 }
