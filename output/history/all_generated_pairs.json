@@ -3707,7 +3707,25 @@
       "american": "sick",
       "category": "health",
       "generated_at": "2026-10-28T14:41:57.569360"
+    },
+    {
+      "british": "wicket",
+      "american": "plate",
+      "category": "sports",
+      "generated_at": "2026-10-28T23:56:52.075053"
+    },
+    {
+      "british": "gym",
+      "american": "gymnasium",
+      "category": "sports",
+      "generated_at": "2026-10-28T23:56:52.075063"
+    },
+    {
+      "british": "flannelette",
+      "american": "flannel",
+      "category": "health",
+      "generated_at": "2026-10-28T23:56:52.075065"
     }
   ],
-  "last_updated": "2026-10-28T14:41:57.569362"
+  "last_updated": "2026-10-28T23:56:52.075067"
 }
