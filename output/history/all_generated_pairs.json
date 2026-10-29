@@ -3725,7 +3725,25 @@
       "american": "flannel",
       "category": "health",
       "generated_at": "2026-10-28T23:56:52.075065"
+    },
+    {
+      "british": "tapestry",
+      "american": "mural",
+      "category": "housing",
+      "generated_at": "2026-10-29T23:49:45.966347"
+    },
+    {
+      "british": "hoc-pot",
+      "american": "casserole",
+      "category": "school",
+      "generated_at": "2026-10-29T23:49:45.966357"
+    },
+    {
+      "british": "belly",
+      "american": "abdomen",
+      "category": "health",
+      "generated_at": "2026-10-29T23:49:45.966358"
     }
   ],
-  "last_updated": "2026-10-28T23:56:52.075067"
+  "last_updated": "2026-10-29T23:49:45.966360"
 }
