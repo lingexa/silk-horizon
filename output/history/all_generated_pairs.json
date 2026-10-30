@@ -3755,7 +3755,25 @@
       "american": "drapes",
       "category": "housing",
       "generated_at": "2026-10-30T14:46:20.506782"
+    },
+    {
+      "british": "nectar",
+      "american": "juice",
+      "category": "food and drink",
+      "generated_at": "2026-10-30T23:28:52.884209"
+    },
+    {
+      "british": "sandals",
+      "american": "flip-flops",
+      "category": "clothing",
+      "generated_at": "2026-10-30T23:28:52.884220"
+    },
+    {
+      "british": "bibs",
+      "american": "smocks",
+      "category": "clothing",
+      "generated_at": "2026-10-30T23:28:52.884221"
     }
   ],
-  "last_updated": "2026-10-30T14:46:20.506784"
+  "last_updated": "2026-10-30T23:28:52.884223"
 }
