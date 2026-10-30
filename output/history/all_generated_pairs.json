@@ -3743,7 +3743,19 @@
       "american": "abdomen",
       "category": "health",
       "generated_at": "2026-10-29T23:49:45.966358"
+    },
+    {
+      "british": "crèche",
+      "american": "daycare",
+      "category": "clothing",
+      "generated_at": "2026-10-30T14:46:20.506774"
+    },
+    {
+      "british": "curtains",
+      "american": "drapes",
+      "category": "housing",
+      "generated_at": "2026-10-30T14:46:20.506782"
     }
   ],
-  "last_updated": "2026-10-29T23:49:45.966360"
+  "last_updated": "2026-10-30T14:46:20.506784"
 }
