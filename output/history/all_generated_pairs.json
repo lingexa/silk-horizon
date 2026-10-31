@@ -3773,7 +3773,25 @@
       "american": "smocks",
       "category": "clothing",
       "generated_at": "2026-10-30T23:28:52.884221"
+    },
+    {
+      "british": "spring",
+      "american": "onion",
+      "category": "food and drink",
+      "generated_at": "2026-10-31T14:00:46.667658"
+    },
+    {
+      "british": "motor",
+      "american": "engine",
+      "category": "transport",
+      "generated_at": "2026-10-31T14:00:46.667671"
+    },
+    {
+      "british": "rent",
+      "american": "lease",
+      "category": "housing",
+      "generated_at": "2026-10-31T14:00:46.667672"
     }
   ],
-  "last_updated": "2026-10-30T23:28:52.884223"
+  "last_updated": "2026-10-31T14:00:46.667673"
 }
