@@ -3791,7 +3791,25 @@
       "american": "lease",
       "category": "housing",
       "generated_at": "2026-10-31T14:00:46.667672"
+    },
+    {
+      "british": "halves",
+      "american": "quarters",
+      "category": "sports",
+      "generated_at": "2026-10-31T23:08:04.456808"
+    },
+    {
+      "british": "try",
+      "american": "touchdown",
+      "category": "sports",
+      "generated_at": "2026-10-31T23:08:04.456818"
+    },
+    {
+      "british": "well",
+      "american": "healthy",
+      "category": "health",
+      "generated_at": "2026-10-31T23:08:04.456819"
     }
   ],
-  "last_updated": "2026-10-31T14:00:46.667673"
+  "last_updated": "2026-10-31T23:08:04.456821"
 }
