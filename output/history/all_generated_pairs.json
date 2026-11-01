@@ -3827,7 +3827,25 @@
       "american": "owner",
       "category": "housing",
       "generated_at": "2026-11-01T14:37:03.153670"
+    },
+    {
+      "british": "kitchen",
+      "american": "galley",
+      "category": "housing",
+      "generated_at": "2026-11-01T23:23:52.199597"
+    },
+    {
+      "british": "flatlet",
+      "american": "studio",
+      "category": "housing",
+      "generated_at": "2026-11-01T23:23:52.199606"
+    },
+    {
+      "british": "doorbell",
+      "american": "buzzer",
+      "category": "housing",
+      "generated_at": "2026-11-01T23:23:52.199608"
     }
   ],
-  "last_updated": "2026-11-01T14:37:03.153672"
+  "last_updated": "2026-11-01T23:23:52.199610"
 }
