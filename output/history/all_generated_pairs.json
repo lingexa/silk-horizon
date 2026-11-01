@@ -3809,7 +3809,25 @@
       "american": "healthy",
       "category": "health",
       "generated_at": "2026-10-31T23:08:04.456819"
+    },
+    {
+      "british": "mushy",
+      "american": "mashed",
+      "category": "food and drink",
+      "generated_at": "2026-11-01T14:37:03.153657"
+    },
+    {
+      "british": "hire",
+      "american": "rent",
+      "category": "transport",
+      "generated_at": "2026-11-01T14:37:03.153669"
+    },
+    {
+      "british": "landlord",
+      "american": "owner",
+      "category": "housing",
+      "generated_at": "2026-11-01T14:37:03.153670"
     }
   ],
-  "last_updated": "2026-10-31T23:08:04.456821"
+  "last_updated": "2026-11-01T14:37:03.153672"
 }
