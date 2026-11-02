@@ -3845,7 +3845,25 @@
       "american": "buzzer",
       "category": "housing",
       "generated_at": "2026-11-01T23:23:52.199608"
+    },
+    {
+      "british": "organisation",
+      "american": "organization",
+      "category": "workplace",
+      "generated_at": "2026-11-02T17:33:42.971020"
+    },
+    {
+      "british": "offside",
+      "american": "illegal",
+      "category": "sports",
+      "generated_at": "2026-11-02T17:33:42.971031"
+    },
+    {
+      "british": "tackle",
+      "american": "block",
+      "category": "sports",
+      "generated_at": "2026-11-02T17:33:42.971033"
     }
   ],
-  "last_updated": "2026-11-01T23:23:52.199610"
+  "last_updated": "2026-11-02T17:33:42.971035"
 }
