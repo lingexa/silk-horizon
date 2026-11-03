@@ -3881,7 +3881,25 @@
       "american": "outs",
       "category": "sports",
       "generated_at": "2026-11-03T02:02:15.679614"
+    },
+    {
+      "british": "spencer",
+      "american": "bolero",
+      "category": "clothing",
+      "generated_at": "2026-11-03T15:37:09.613186"
+    },
+    {
+      "british": "carer",
+      "american": "caregiver",
+      "category": "health",
+      "generated_at": "2026-11-03T15:37:09.613200"
+    },
+    {
+      "british": "dyspepsia",
+      "american": "indigestion",
+      "category": "health",
+      "generated_at": "2026-11-03T15:37:09.613201"
     }
   ],
-  "last_updated": "2026-11-03T02:02:15.679616"
+  "last_updated": "2026-11-03T15:37:09.613204"
 }
