@@ -3863,7 +3863,25 @@
       "american": "block",
       "category": "sports",
       "generated_at": "2026-11-02T17:33:42.971033"
+    },
+    {
+      "british": "holidays",
+      "american": "break",
+      "category": "school",
+      "generated_at": "2026-11-03T02:02:15.679603"
+    },
+    {
+      "british": "batsman",
+      "american": "hitter",
+      "category": "sports",
+      "generated_at": "2026-11-03T02:02:15.679613"
+    },
+    {
+      "british": "wickets",
+      "american": "outs",
+      "category": "sports",
+      "generated_at": "2026-11-03T02:02:15.679614"
     }
   ],
-  "last_updated": "2026-11-02T17:33:42.971035"
+  "last_updated": "2026-11-03T02:02:15.679616"
 }
