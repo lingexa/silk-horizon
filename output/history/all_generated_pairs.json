@@ -3899,7 +3899,25 @@
       "american": "indigestion",
       "category": "health",
       "generated_at": "2026-11-03T15:37:09.613201"
+    },
+    {
+      "british": "boiling",
+      "american": "seething",
+      "category": "food and drink",
+      "generated_at": "2026-11-04T00:24:23.155445"
+    },
+    {
+      "british": "freehold",
+      "american": "fee-simple",
+      "category": "housing",
+      "generated_at": "2026-11-04T00:24:23.155457"
+    },
+    {
+      "british": "utility",
+      "american": "service",
+      "category": "housing",
+      "generated_at": "2026-11-04T00:24:23.155458"
     }
   ],
-  "last_updated": "2026-11-03T15:37:09.613204"
+  "last_updated": "2026-11-04T00:24:23.155459"
 }
