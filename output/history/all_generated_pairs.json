@@ -3917,7 +3917,25 @@
       "american": "service",
       "category": "housing",
       "generated_at": "2026-11-04T00:24:23.155458"
+    },
+    {
+      "british": "half",
+      "american": "quarter",
+      "category": "sports",
+      "generated_at": "2026-11-04T15:52:27.554010"
+    },
+    {
+      "british": "hoop",
+      "american": "basket",
+      "category": "sports",
+      "generated_at": "2026-11-04T15:52:27.554022"
+    },
+    {
+      "british": "pills",
+      "american": "capsules",
+      "category": "health",
+      "generated_at": "2026-11-04T15:52:27.554024"
     }
   ],
-  "last_updated": "2026-11-04T00:24:23.155459"
+  "last_updated": "2026-11-04T15:52:27.554026"
 }
