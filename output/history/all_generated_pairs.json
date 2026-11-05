@@ -3935,7 +3935,19 @@
       "american": "capsules",
       "category": "health",
       "generated_at": "2026-11-04T15:52:27.554024"
+    },
+    {
+      "british": "streetcar",
+      "american": "tram",
+      "category": "transport",
+      "generated_at": "2026-11-05T00:46:30.223125"
+    },
+    {
+      "british": "lawn",
+      "american": "grass",
+      "category": "housing",
+      "generated_at": "2026-11-05T00:46:30.223140"
     }
   ],
-  "last_updated": "2026-11-04T15:52:27.554026"
+  "last_updated": "2026-11-05T00:46:30.223142"
 }
