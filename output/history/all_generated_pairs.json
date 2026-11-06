@@ -4001,7 +4001,25 @@
       "american": "hematology",
       "category": "health",
       "generated_at": "2026-11-06T15:29:16.387521"
+    },
+    {
+      "british": "motorcade",
+      "american": "convoy",
+      "category": "transport",
+      "generated_at": "2026-11-06T23:59:04.778953"
+    },
+    {
+      "british": "postcode",
+      "american": "zipcode",
+      "category": "shopping",
+      "generated_at": "2026-11-06T23:59:04.778966"
+    },
+    {
+      "british": "skates",
+      "american": "rollerblades",
+      "category": "sports",
+      "generated_at": "2026-11-06T23:59:04.778967"
     }
   ],
-  "last_updated": "2026-11-06T15:29:16.387522"
+  "last_updated": "2026-11-06T23:59:04.778968"
 }
