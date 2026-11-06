@@ -3965,7 +3965,25 @@
       "american": "leasing",
       "category": "housing",
       "generated_at": "2026-11-05T15:55:41.872852"
+    },
+    {
+      "british": "self-raising",
+      "american": "all-purpose",
+      "category": "food and drink",
+      "generated_at": "2026-11-06T00:47:45.280159"
+    },
+    {
+      "british": "sport",
+      "american": "athletics",
+      "category": "school",
+      "generated_at": "2026-11-06T00:47:45.280170"
+    },
+    {
+      "british": "schoolmaster",
+      "american": "teacher",
+      "category": "school",
+      "generated_at": "2026-11-06T00:47:45.280172"
     }
   ],
-  "last_updated": "2026-11-05T15:55:41.872854"
+  "last_updated": "2026-11-06T00:47:45.280173"
 }
