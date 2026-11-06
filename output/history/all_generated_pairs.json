@@ -3983,7 +3983,25 @@
       "american": "teacher",
       "category": "school",
       "generated_at": "2026-11-06T00:47:45.280172"
+    },
+    {
+      "british": "haemorrhage",
+      "american": "hemorrhage",
+      "category": "health",
+      "generated_at": "2026-11-06T15:29:16.387514"
+    },
+    {
+      "british": "catheterise",
+      "american": "catheterize",
+      "category": "health",
+      "generated_at": "2026-11-06T15:29:16.387520"
+    },
+    {
+      "british": "haematology",
+      "american": "hematology",
+      "category": "health",
+      "generated_at": "2026-11-06T15:29:16.387521"
     }
   ],
-  "last_updated": "2026-11-06T00:47:45.280173"
+  "last_updated": "2026-11-06T15:29:16.387522"
 }
