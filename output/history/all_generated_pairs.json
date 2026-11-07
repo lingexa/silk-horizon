@@ -4019,7 +4019,25 @@
       "american": "rollerblades",
       "category": "sports",
       "generated_at": "2026-11-06T23:59:04.778967"
+    },
+    {
+      "british": "centre-forward",
+      "american": "striker",
+      "category": "sports",
+      "generated_at": "2026-11-07T14:31:02.191560"
+    },
+    {
+      "british": "underdog",
+      "american": "longshot",
+      "category": "sports",
+      "generated_at": "2026-11-07T14:31:02.191571"
+    },
+    {
+      "british": "hat-trick",
+      "american": "threepeat",
+      "category": "sports",
+      "generated_at": "2026-11-07T14:31:02.191572"
     }
   ],
-  "last_updated": "2026-11-06T23:59:04.778968"
+  "last_updated": "2026-11-07T14:31:02.191574"
 }
