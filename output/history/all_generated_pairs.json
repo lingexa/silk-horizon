@@ -4037,7 +4037,25 @@
       "american": "threepeat",
       "category": "sports",
       "generated_at": "2026-11-07T14:31:02.191572"
+    },
+    {
+      "british": "parcel",
+      "american": "package",
+      "category": "transport",
+      "generated_at": "2026-11-07T23:27:30.045634"
+    },
+    {
+      "british": "en-suite",
+      "american": "attached",
+      "category": "housing",
+      "generated_at": "2026-11-07T23:27:30.045644"
+    },
+    {
+      "british": "tee",
+      "american": "peg",
+      "category": "sports",
+      "generated_at": "2026-11-07T23:27:30.045645"
     }
   ],
-  "last_updated": "2026-11-07T14:31:02.191574"
+  "last_updated": "2026-11-07T23:27:30.045647"
 }
