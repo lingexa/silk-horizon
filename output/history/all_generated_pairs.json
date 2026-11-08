@@ -4055,7 +4055,25 @@
       "american": "peg",
       "category": "sports",
       "generated_at": "2026-11-07T23:27:30.045645"
+    },
+    {
+      "british": "paracetamol",
+      "american": "acetaminophen",
+      "category": "health",
+      "generated_at": "2026-11-08T14:39:15.171029"
+    },
+    {
+      "british": "saline",
+      "american": "saltwater",
+      "category": "health",
+      "generated_at": "2026-11-08T14:39:15.171039"
+    },
+    {
+      "british": "ampoule",
+      "american": "vial",
+      "category": "health",
+      "generated_at": "2026-11-08T14:39:15.171040"
     }
   ],
-  "last_updated": "2026-11-07T23:27:30.045647"
+  "last_updated": "2026-11-08T14:39:15.171042"
 }
