@@ -4073,7 +4073,25 @@
       "american": "vial",
       "category": "health",
       "generated_at": "2026-11-08T14:39:15.171040"
+    },
+    {
+      "british": "porridge",
+      "american": "oatmeal",
+      "category": "food and drink",
+      "generated_at": "2026-11-08T23:26:43.821796"
+    },
+    {
+      "british": "keks",
+      "american": "stockings",
+      "category": "clothing",
+      "generated_at": "2026-11-08T23:26:43.821805"
+    },
+    {
+      "british": "waist",
+      "american": "middle",
+      "category": "clothing",
+      "generated_at": "2026-11-08T23:26:43.821807"
     }
   ],
-  "last_updated": "2026-11-08T14:39:15.171042"
+  "last_updated": "2026-11-08T23:26:43.821808"
 }
