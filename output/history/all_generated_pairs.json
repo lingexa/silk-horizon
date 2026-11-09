@@ -4091,7 +4091,25 @@
       "american": "middle",
       "category": "clothing",
       "generated_at": "2026-11-08T23:26:43.821807"
+    },
+    {
+      "british": "candystalk",
+      "american": "lollipop",
+      "category": "school",
+      "generated_at": "2026-11-09T17:58:18.975864"
+    },
+    {
+      "british": "chemo",
+      "american": "chemotherapy",
+      "category": "health",
+      "generated_at": "2026-11-09T17:58:18.975874"
+    },
+    {
+      "british": "scar",
+      "american": "cicatrix",
+      "category": "health",
+      "generated_at": "2026-11-09T17:58:18.975875"
     }
   ],
-  "last_updated": "2026-11-08T23:26:43.821808"
+  "last_updated": "2026-11-09T17:58:18.975877"
 }
