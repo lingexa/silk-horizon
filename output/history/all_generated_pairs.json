@@ -4127,7 +4127,25 @@
       "american": "autumn",
       "category": "health",
       "generated_at": "2026-11-10T02:35:16.011022"
+    },
+    {
+      "british": "fly",
+      "american": "plane",
+      "category": "transport",
+      "generated_at": "2026-11-10T15:58:26.299415"
+    },
+    {
+      "british": "flu",
+      "american": "influenza",
+      "category": "health",
+      "generated_at": "2026-11-10T15:58:26.299426"
+    },
+    {
+      "british": "haemorrhoid",
+      "american": "hemorrhoid",
+      "category": "health",
+      "generated_at": "2026-11-10T15:58:26.299427"
     }
   ],
-  "last_updated": "2026-11-10T02:35:16.011024"
+  "last_updated": "2026-11-10T15:58:26.299429"
 }
