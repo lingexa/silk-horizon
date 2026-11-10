@@ -4109,7 +4109,25 @@
       "american": "cicatrix",
       "category": "health",
       "generated_at": "2026-11-09T17:58:18.975875"
+    },
+    {
+      "british": "carbuncle",
+      "american": "boil",
+      "category": "health",
+      "generated_at": "2026-11-10T02:35:16.011011"
+    },
+    {
+      "british": "dumb",
+      "american": "mute",
+      "category": "health",
+      "generated_at": "2026-11-10T02:35:16.011021"
+    },
+    {
+      "british": "fall",
+      "american": "autumn",
+      "category": "health",
+      "generated_at": "2026-11-10T02:35:16.011022"
     }
   ],
-  "last_updated": "2026-11-09T17:58:18.975877"
+  "last_updated": "2026-11-10T02:35:16.011024"
 }
