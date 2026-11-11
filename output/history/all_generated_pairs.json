@@ -4145,7 +4145,25 @@
       "american": "hemorrhoid",
       "category": "health",
       "generated_at": "2026-11-10T15:58:26.299427"
+    },
+    {
+      "british": "travelling",
+      "american": "traveling",
+      "category": "school",
+      "generated_at": "2026-11-11T00:27:28.649649"
+    },
+    {
+      "british": "dialogue",
+      "american": "dialog",
+      "category": "school",
+      "generated_at": "2026-11-11T00:27:28.649662"
+    },
+    {
+      "british": "analysing",
+      "american": "analyzing",
+      "category": "school",
+      "generated_at": "2026-11-11T00:27:28.649663"
     }
   ],
-  "last_updated": "2026-11-10T15:58:26.299429"
+  "last_updated": "2026-11-11T00:27:28.649665"
 }
