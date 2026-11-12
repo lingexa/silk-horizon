@@ -4181,7 +4181,25 @@
       "american": "plaid",
       "category": "clothing",
       "generated_at": "2026-11-12T01:49:55.805712"
+    },
+    {
+      "british": "bog",
+      "american": "toilet",
+      "category": "housing",
+      "generated_at": "2026-11-12T16:27:02.761604"
+    },
+    {
+      "british": "sink",
+      "american": "lavatory",
+      "category": "housing",
+      "generated_at": "2026-11-12T16:27:02.761615"
+    },
+    {
+      "british": "doorstep",
+      "american": "threshold",
+      "category": "housing",
+      "generated_at": "2026-11-12T16:27:02.761616"
     }
   ],
-  "last_updated": "2026-11-12T01:49:55.805714"
+  "last_updated": "2026-11-12T16:27:02.761617"
 }
