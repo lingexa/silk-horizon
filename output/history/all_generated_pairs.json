@@ -4163,7 +4163,25 @@
       "american": "analyzing",
       "category": "school",
       "generated_at": "2026-11-11T00:27:28.649663"
+    },
+    {
+      "british": "zip",
+      "american": "zipper",
+      "category": "workplace",
+      "generated_at": "2026-11-12T01:49:55.805699"
+    },
+    {
+      "british": "elderly",
+      "american": "senior",
+      "category": "health",
+      "generated_at": "2026-11-12T01:49:55.805711"
+    },
+    {
+      "british": "gingham",
+      "american": "plaid",
+      "category": "clothing",
+      "generated_at": "2026-11-12T01:49:55.805712"
     }
   ],
-  "last_updated": "2026-11-11T00:27:28.649665"
+  "last_updated": "2026-11-12T01:49:55.805714"
 }
