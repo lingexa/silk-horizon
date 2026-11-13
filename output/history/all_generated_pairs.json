@@ -4217,7 +4217,25 @@
       "american": "ostomy",
       "category": "health",
       "generated_at": "2026-11-13T00:56:09.738476"
+    },
+    {
+      "british": "ploughman's",
+      "american": "lunch",
+      "category": "food and drink",
+      "generated_at": "2026-11-13T15:47:19.457115"
+    },
+    {
+      "british": "lintel",
+      "american": "header",
+      "category": "housing",
+      "generated_at": "2026-11-13T15:47:19.457123"
+    },
+    {
+      "british": "shutters",
+      "american": "blinds",
+      "category": "housing",
+      "generated_at": "2026-11-13T15:47:19.457124"
     }
   ],
-  "last_updated": "2026-11-13T00:56:09.738478"
+  "last_updated": "2026-11-13T15:47:19.457126"
 }
