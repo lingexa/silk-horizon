@@ -4235,7 +4235,25 @@
       "american": "blinds",
       "category": "housing",
       "generated_at": "2026-11-13T15:47:19.457124"
+    },
+    {
+      "british": "wee",
+      "american": "pee",
+      "category": "health",
+      "generated_at": "2026-11-14T00:44:46.744828"
+    },
+    {
+      "british": "pus",
+      "american": "matter",
+      "category": "health",
+      "generated_at": "2026-11-14T00:44:46.744835"
+    },
+    {
+      "british": "indisposed",
+      "american": "unwell",
+      "category": "health",
+      "generated_at": "2026-11-14T00:44:46.744837"
     }
   ],
-  "last_updated": "2026-11-13T15:47:19.457126"
+  "last_updated": "2026-11-14T00:44:46.744838"
 }
