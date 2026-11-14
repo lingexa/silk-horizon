@@ -4253,7 +4253,13 @@
       "american": "unwell",
       "category": "health",
       "generated_at": "2026-11-14T00:44:46.744837"
+    },
+    {
+      "british": "barbecue",
+      "american": "grill",
+      "category": "food and drink",
+      "generated_at": "2026-11-14T14:38:21.438578"
     }
   ],
-  "last_updated": "2026-11-14T00:44:46.744838"
+  "last_updated": "2026-11-14T14:38:21.438587"
 }
