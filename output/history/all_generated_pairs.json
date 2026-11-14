@@ -4259,7 +4259,25 @@
       "american": "grill",
       "category": "food and drink",
       "generated_at": "2026-11-14T14:38:21.438578"
+    },
+    {
+      "british": "mobilise",
+      "american": "mobilize",
+      "category": "transport",
+      "generated_at": "2026-11-14T23:40:04.130736"
+    },
+    {
+      "british": "constipation",
+      "american": "costiveness",
+      "category": "health",
+      "generated_at": "2026-11-14T23:40:04.130746"
+    },
+    {
+      "british": "bruise",
+      "american": "contusion",
+      "category": "health",
+      "generated_at": "2026-11-14T23:40:04.130747"
     }
   ],
-  "last_updated": "2026-11-14T14:38:21.438587"
+  "last_updated": "2026-11-14T23:40:04.130748"
 }
