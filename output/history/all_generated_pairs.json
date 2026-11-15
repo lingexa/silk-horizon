@@ -4277,7 +4277,25 @@
       "american": "contusion",
       "category": "health",
       "generated_at": "2026-11-14T23:40:04.130747"
+    },
+    {
+      "british": "parcels",
+      "american": "packages",
+      "category": "food and drink",
+      "generated_at": "2026-11-15T15:06:54.805431"
+    },
+    {
+      "british": "innings",
+      "american": "half",
+      "category": "sports",
+      "generated_at": "2026-11-15T15:06:54.805441"
+    },
+    {
+      "british": "wrestle",
+      "american": "grapple",
+      "category": "sports",
+      "generated_at": "2026-11-15T15:06:54.805442"
     }
   ],
-  "last_updated": "2026-11-14T23:40:04.130748"
+  "last_updated": "2026-11-15T15:06:54.805444"
 }
