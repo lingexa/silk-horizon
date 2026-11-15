@@ -4295,7 +4295,25 @@
       "american": "grapple",
       "category": "sports",
       "generated_at": "2026-11-15T15:06:54.805442"
+    },
+    {
+      "british": "whilst",
+      "american": "while",
+      "category": "food and drink",
+      "generated_at": "2026-11-15T23:46:48.731835"
+    },
+    {
+      "british": "study",
+      "american": "den",
+      "category": "housing",
+      "generated_at": "2026-11-15T23:46:48.731844"
+    },
+    {
+      "british": "labour",
+      "american": "labor",
+      "category": "health",
+      "generated_at": "2026-11-15T23:46:48.731846"
     }
   ],
-  "last_updated": "2026-11-15T15:06:54.805444"
+  "last_updated": "2026-11-15T23:46:48.731847"
 }
