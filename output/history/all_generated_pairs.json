@@ -4313,7 +4313,25 @@
       "american": "labor",
       "category": "health",
       "generated_at": "2026-11-15T23:46:48.731846"
+    },
+    {
+      "british": "hoardings",
+      "american": "fencing",
+      "category": "housing",
+      "generated_at": "2026-11-16T17:40:37.489511"
+    },
+    {
+      "british": "mali",
+      "american": "malaria",
+      "category": "health",
+      "generated_at": "2026-11-16T17:40:37.489521"
+    },
+    {
+      "british": "fever",
+      "american": "temperature",
+      "category": "health",
+      "generated_at": "2026-11-16T17:40:37.489522"
     }
   ],
-  "last_updated": "2026-11-15T23:46:48.731847"
+  "last_updated": "2026-11-16T17:40:37.489524"
 }
