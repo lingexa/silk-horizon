@@ -4349,7 +4349,25 @@
       "american": "optical",
       "category": "health",
       "generated_at": "2026-11-17T02:49:04.572370"
+    },
+    {
+      "british": "tiles",
+      "american": "tile",
+      "category": "housing",
+      "generated_at": "2026-11-17T17:15:09.855749"
+    },
+    {
+      "british": "well-fitting",
+      "american": "tailored",
+      "category": "clothing",
+      "generated_at": "2026-11-17T17:15:09.855759"
+    },
+    {
+      "british": "advert",
+      "american": "ad",
+      "category": "shopping",
+      "generated_at": "2026-11-17T17:15:09.855761"
     }
   ],
-  "last_updated": "2026-11-17T02:49:04.572371"
+  "last_updated": "2026-11-17T17:15:09.855763"
 }
