@@ -4331,7 +4331,25 @@
       "american": "temperature",
       "category": "health",
       "generated_at": "2026-11-16T17:40:37.489522"
+    },
+    {
+      "british": "gaol",
+      "american": "jail",
+      "category": "health",
+      "generated_at": "2026-11-17T02:49:04.572358"
+    },
+    {
+      "british": "swollen",
+      "american": "puffy",
+      "category": "health",
+      "generated_at": "2026-11-17T02:49:04.572369"
+    },
+    {
+      "british": "ophthalmic",
+      "american": "optical",
+      "category": "health",
+      "generated_at": "2026-11-17T02:49:04.572370"
     }
   ],
-  "last_updated": "2026-11-16T17:40:37.489524"
+  "last_updated": "2026-11-17T02:49:04.572371"
 }
