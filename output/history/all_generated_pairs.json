@@ -4385,7 +4385,25 @@
       "american": "root",
       "category": "sports",
       "generated_at": "2026-11-18T02:09:51.530250"
+    },
+    {
+      "british": "bypass",
+      "american": "beltway",
+      "category": "transport",
+      "generated_at": "2026-11-18T16:54:27.821543"
+    },
+    {
+      "british": "whistle",
+      "american": "siren",
+      "category": "sports",
+      "generated_at": "2026-11-18T16:54:27.821552"
+    },
+    {
+      "british": "win",
+      "american": "victory",
+      "category": "sports",
+      "generated_at": "2026-11-18T16:54:27.821553"
     }
   ],
-  "last_updated": "2026-11-18T02:09:51.530252"
+  "last_updated": "2026-11-18T16:54:27.821555"
 }
