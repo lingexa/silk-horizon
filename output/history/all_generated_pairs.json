@@ -4367,7 +4367,25 @@
       "american": "ad",
       "category": "shopping",
       "generated_at": "2026-11-17T17:15:09.855761"
+    },
+    {
+      "british": "fare",
+      "american": "ticket",
+      "category": "transport",
+      "generated_at": "2026-11-18T02:09:51.530238"
+    },
+    {
+      "british": "fireplace",
+      "american": "hearth",
+      "category": "housing",
+      "generated_at": "2026-11-18T02:09:51.530249"
+    },
+    {
+      "british": "cheer",
+      "american": "root",
+      "category": "sports",
+      "generated_at": "2026-11-18T02:09:51.530250"
     }
   ],
-  "last_updated": "2026-11-17T17:15:09.855763"
+  "last_updated": "2026-11-18T02:09:51.530252"
 }
