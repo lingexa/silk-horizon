@@ -4403,7 +4403,25 @@
       "american": "victory",
       "category": "sports",
       "generated_at": "2026-11-18T16:54:27.821553"
+    },
+    {
+      "british": "jerkin",
+      "american": "waistcoat",
+      "category": "clothing",
+      "generated_at": "2026-11-19T01:44:49.326382"
+    },
+    {
+      "british": "remote",
+      "american": "clicker",
+      "category": "housing",
+      "generated_at": "2026-11-19T01:44:49.326405"
+    },
+    {
+      "british": "metre",
+      "american": "meter",
+      "category": "school",
+      "generated_at": "2026-11-19T01:44:49.326408"
     }
   ],
-  "last_updated": "2026-11-18T16:54:27.821555"
+  "last_updated": "2026-11-19T01:44:49.326410"
 }
