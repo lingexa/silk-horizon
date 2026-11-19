@@ -4421,7 +4421,25 @@
       "american": "meter",
       "category": "school",
       "generated_at": "2026-11-19T01:44:49.326408"
+    },
+    {
+      "british": "candytuft",
+      "american": "cornucopia",
+      "category": "food and drink",
+      "generated_at": "2026-11-19T16:56:44.396221"
+    },
+    {
+      "british": "reign",
+      "american": "rule",
+      "category": "health",
+      "generated_at": "2026-11-19T16:56:44.396232"
+    },
+    {
+      "british": "madame",
+      "american": "marmalade",
+      "category": "food and drink",
+      "generated_at": "2026-11-19T16:56:44.396233"
     }
   ],
-  "last_updated": "2026-11-19T01:44:49.326410"
+  "last_updated": "2026-11-19T16:56:44.396235"
 }
