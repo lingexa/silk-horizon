@@ -4439,7 +4439,25 @@
       "american": "marmalade",
       "category": "food and drink",
       "generated_at": "2026-11-19T16:56:44.396233"
+    },
+    {
+      "british": "whelk",
+      "american": "conch",
+      "category": "food and drink",
+      "generated_at": "2026-11-20T01:41:07.079739"
+    },
+    {
+      "british": "flavour",
+      "american": "flavor",
+      "category": "workplace",
+      "generated_at": "2026-11-20T01:41:07.079747"
+    },
+    {
+      "british": "realise",
+      "american": "realize",
+      "category": "workplace",
+      "generated_at": "2026-11-20T01:41:07.079749"
     }
   ],
-  "last_updated": "2026-11-19T16:56:44.396235"
+  "last_updated": "2026-11-20T01:41:07.079751"
 }
