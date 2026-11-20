@@ -4457,7 +4457,25 @@
       "american": "realize",
       "category": "workplace",
       "generated_at": "2026-11-20T01:41:07.079749"
+    },
+    {
+      "british": "billiards",
+      "american": "pool",
+      "category": "sports",
+      "generated_at": "2026-11-20T16:30:32.953005"
+    },
+    {
+      "british": "snooker",
+      "american": "pool",
+      "category": "sports",
+      "generated_at": "2026-11-20T16:30:32.953017"
+    },
+    {
+      "british": "penalty",
+      "american": "fine",
+      "category": "sports",
+      "generated_at": "2026-11-20T16:30:32.953017"
     }
   ],
-  "last_updated": "2026-11-20T01:41:07.079751"
+  "last_updated": "2026-11-20T16:30:32.953019"
 }
